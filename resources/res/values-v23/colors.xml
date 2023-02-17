@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_btn_colored_borderless_text_material">\t  .xml</color>
+    <color name="abc_btn_colored_text_material">  \f.xml</color>
+    <color name="abc_color_highlight_material">   .xml</color>
+    <color name="abc_tint_btn_checkable">　  .xml</color>
+    <color name="abc_tint_default">   .xml</color>
+    <color name="abc_tint_edittext">   .xml</color>
+    <color name="abc_tint_seek_thumb">  .xml</color>
+    <color name="abc_tint_spinner">\t\f .xml</color>
+    <color name="abc_tint_switch_track">   .xml</color>
+    <color name="design_tint_password_toggle">   .xml</color>
+    <color name="status_bar_kids_background_color">@color/brand_white</color>
+</resources>

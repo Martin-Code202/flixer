@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:zAdjustment="bottom">
+    <objectAnimator android:duration="@integer/activity_transition_anim_time_ms" android:valueFrom="1f" android:valueTo="0.8f" android:propertyName="scaleX"/>
+    <objectAnimator android:duration="@integer/activity_transition_anim_time_ms" android:valueFrom="1.0f" android:valueTo="0.8f" android:propertyName="scaleY"/>
+</set>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="700dp" android:width="360dp" android:viewportWidth="360" android:viewportHeight="700">
+    <path android:fillColor="#000000" android:pathData="M0,0h360v600h-360z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillAlpha="0" android:fillType="evenOdd"/>
+    <path android:name="0_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M8,8l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M126,8l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M243,8l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M8,172l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M126,172l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M243,172l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="2_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M8,336l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="2_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M126,336l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="2_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M243,336l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="3_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M8,500l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="3_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M126,500l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="3_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M243,500l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="4_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M8,664l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="4_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M126,664l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="4_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M243,664l109,0l0,156l-109,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+</vector>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertDialogNetflixSans" parent="@style/res_2131952249_themeoverlay_appcompat_dialog_alert">
+        <item name="android:textAppearanceSmall">@style/DialogMessageNetflixSans</item>
+        <item name="android:windowTitleStyle">@style/DialogWindowTitleNetflixSans</item>
+        <item name="buttonBarNegativeButtonStyle">@style/DialogButtonNetflixSans</item>
+        <item name="buttonBarNeutralButtonStyle">@style/DialogButtonNetflixSans</item>
+        <item name="buttonBarPositiveButtonStyle">@style/DialogButtonNetflixSans</item>
+    </style>
+    <style name="DialogButtonNetflixSans" parent="@style/res_2131952277_widget_appcompat_button_buttonbar_alertdialog">
+        <item name="android:fontFamily">@font/kufi_regular</item>
+    </style>
+    <style name="DialogMessageNetflixSans" parent="@style/res_2131952133_textappearance_appcompat_small">
+        <item name="android:fontFamily">@font/kufi_regular</item>
+    </style>
+    <style name="DialogTitleNetflixSans" parent="@style/res_2131952137_textappearance_appcompat_title">
+        <item name="android:fontFamily">@font/kufi_regular</item>
+    </style>
+    <style name="DialogWindowTitleNetflixSans" parent="@style/res_2131951994_rtloverlay_dialogwindowtitle_appcompat">
+        <item name="android:textAppearance">@style/DialogTitleNetflixSans</item>
+    </style>
+    <style name="NetflixBoldFont">
+        <item name="android:fontFamily">@font/kufi_bold</item>
+    </style>
+    <style name="NetflixFont">
+        <item name="android:fontFamily">@font/kufi_regular</item>
+    </style>
+    <style name="NetflixLightFont">
+        <item name="android:fontFamily">@font/kufi_regular</item>
+    </style>
+</resources>

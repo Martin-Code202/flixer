@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <xml name="preapp_provider">   .xml</xml>
+    <xml name="preapp_provider_old">   .xml</xml>
+    <xml name="searchable"> \f\t.xml</xml>
+    <xml name="settings">  \t.xml</xml>
+    <xml name="smart_download_offline_preference">   .xml</xml>
+</resources>

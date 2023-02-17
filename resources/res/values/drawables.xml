@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="res_2131230720_avd_hide_password__0">   .xml</drawable>
+    <drawable name="res_2131230721_avd_hide_password__1">  \f.xml</drawable>
+    <drawable name="res_2131230722_avd_hide_password__2">\t  .xml</drawable>
+    <drawable name="res_2131230723_avd_loading_skeleton_gallery__0">   .xml</drawable>
+    <drawable name="res_2131230724_avd_loading_skeleton_gallery__1">   .xml</drawable>
+    <drawable name="res_2131230725_avd_loading_skeleton_gallery__10">   .xml</drawable>
+    <drawable name="res_2131230726_avd_loading_skeleton_gallery__11">  .xml</drawable>
+    <drawable name="res_2131230727_avd_loading_skeleton_gallery__12">　 .xml</drawable>
+    <drawable name="res_2131230728_avd_loading_skeleton_gallery__13">  \t.xml</drawable>
+    <drawable name="res_2131230729_avd_loading_skeleton_gallery__14">   .xml</drawable>
+    <drawable name="res_2131230730_avd_loading_skeleton_gallery__15">\t .xml</drawable>
+    <drawable name="res_2131230731_avd_loading_skeleton_gallery__2">  .xml</drawable>
+    <drawable name="res_2131230732_avd_loading_skeleton_gallery__3">  \t.xml</drawable>
+    <drawable name="res_2131230733_avd_loading_skeleton_gallery__4">   .xml</drawable>
+    <drawable name="res_2131230734_avd_loading_skeleton_gallery__5">\f  .xml</drawable>
+    <drawable name="res_2131230735_avd_loading_skeleton_gallery__6">   .xml</drawable>
+    <drawable name="res_2131230736_avd_loading_skeleton_gallery__7">   .xml</drawable>
+    <drawable name="res_2131230737_avd_loading_skeleton_gallery__8">  \t.xml</drawable>
+    <drawable name="res_2131230738_avd_loading_skeleton_gallery__9">   .xml</drawable>
+    <drawable name="res_2131230739_avd_loading_skeleton_lolomo__0">   .xml</drawable>
+    <drawable name="res_2131230740_avd_loading_skeleton_lolomo__1">   .xml</drawable>
+    <drawable name="res_2131230741_avd_loading_skeleton_lolomo__10"> \t .xml</drawable>
+    <drawable name="res_2131230742_avd_loading_skeleton_lolomo__11">  \f.xml</drawable>
+    <drawable name="res_2131230743_avd_loading_skeleton_lolomo__12">   .xml</drawable>
+    <drawable name="res_2131230744_avd_loading_skeleton_lolomo__13">   .xml</drawable>
+    <drawable name="res_2131230745_avd_loading_skeleton_lolomo__14">\t  .xml</drawable>
+    <drawable name="res_2131230746_avd_loading_skeleton_lolomo__15">\f  .xml</drawable>
+    <drawable name="res_2131230747_avd_loading_skeleton_lolomo__16">   .xml</drawable>
+    <drawable name="res_2131230748_avd_loading_skeleton_lolomo__17">　 \f.xml</drawable>
+    <drawable name="res_2131230749_avd_loading_skeleton_lolomo__18">   .xml</drawable>
+    <drawable name="res_2131230750_avd_loading_skeleton_lolomo__19">  .xml</drawable>
+    <drawable name="res_2131230751_avd_loading_skeleton_lolomo__2">   .xml</drawable>
+    <drawable name="res_2131230752_avd_loading_skeleton_lolomo__20"> \f .xml</drawable>
+    <drawable name="res_2131230753_avd_loading_skeleton_lolomo__3">   .xml</drawable>
+    <drawable name="res_2131230754_avd_loading_skeleton_lolomo__4">\t\t .xml</drawable>
+    <drawable name="res_2131230755_avd_loading_skeleton_lolomo__5">\t  .xml</drawable>
+    <drawable name="res_2131230756_avd_loading_skeleton_lolomo__6">   .xml</drawable>
+    <drawable name="res_2131230757_avd_loading_skeleton_lolomo__7">   .xml</drawable>
+    <drawable name="res_2131230758_avd_loading_skeleton_lolomo__8">  \t.xml</drawable>
+    <drawable name="res_2131230759_avd_loading_skeleton_lolomo__9">   .xml</drawable>
+    <drawable name="res_2131230760_avd_loading_skeleton_lolomo_billboard__0">  \f.xml</drawable>
+    <drawable name="res_2131230761_avd_loading_skeleton_lolomo_billboard__1">   .xml</drawable>
+    <drawable name="res_2131230762_avd_loading_skeleton_lolomo_billboard__10">   .xml</drawable>
+    <drawable name="res_2131230763_avd_loading_skeleton_lolomo_billboard__11">   .xml</drawable>
+    <drawable name="res_2131230764_avd_loading_skeleton_lolomo_billboard__12">   .xml</drawable>
+    <drawable name="res_2131230765_avd_loading_skeleton_lolomo_billboard__2">   .xml</drawable>
+    <drawable name="res_2131230766_avd_loading_skeleton_lolomo_billboard__3">  \f.xml</drawable>
+    <drawable name="res_2131230767_avd_loading_skeleton_lolomo_billboard__4"> \f .xml</drawable>
+    <drawable name="res_2131230768_avd_loading_skeleton_lolomo_billboard__5">   .xml</drawable>
+    <drawable name="res_2131230769_avd_loading_skeleton_lolomo_billboard__6">   .xml</drawable>
+    <drawable name="res_2131230770_avd_loading_skeleton_lolomo_billboard__7"> \t.xml</drawable>
+    <drawable name="res_2131230771_avd_loading_skeleton_lolomo_billboard__8">   .xml</drawable>
+    <drawable name="res_2131230772_avd_loading_skeleton_lolomo_billboard__9">  \f.xml</drawable>
+    <drawable name="res_2131230773_avd_progress_indeterminate_horizontal__0">   .xml</drawable>
+    <drawable name="res_2131230774_avd_progress_indeterminate_horizontal__1"> \f .xml</drawable>
+    <drawable name="res_2131230775_avd_progress_indeterminate_horizontal__2"> \t .xml</drawable>
+    <drawable name="res_2131230776_avd_show_password__0">　\f .xml</drawable>
+    <drawable name="res_2131230777_avd_show_password__1">   .xml</drawable>
+    <drawable name="res_2131230778_avd_show_password__2">　  .xml</drawable>
+    <drawable name="res_2131230779_avd_trailers_feed_loading_skeleton__0">   .xml</drawable>
+    <drawable name="res_2131230780_avd_trailers_feed_loading_skeleton__1">   .xml</drawable>
+    <drawable name="res_2131230781_avd_trailers_feed_loading_skeleton__2">\f  .xml</drawable>
+    <drawable name="res_2131230782_avd_trailers_feed_loading_skeleton__3">   .xml</drawable>
+    <drawable name="res_2131230783_avd_trailers_feed_loading_skeleton__4"> \t .xml</drawable>
+    <drawable name="res_2131230784_avd_trailers_feed_loading_skeleton__5">\t  .xml</drawable>
+    <drawable name="res_2131230785_avd_trailers_feed_loading_skeleton__6">   .xml</drawable>
+    <drawable name="res_2131230786_avd_trailers_feed_loading_skeleton__7">   .xml</drawable>
+    <drawable name="res_2131230787_avd_trailers_feed_loading_skeleton__8">  \t.xml</drawable>
+    <drawable name="abc_action_bar_item_background_material">   .xml</drawable>
+    <drawable name="abc_btn_borderless_material">   .xml</drawable>
+    <drawable name="abc_btn_check_material">   .xml</drawable>
+    <drawable name="abc_btn_colored_material">  .xml</drawable>
+    <drawable name="abc_btn_default_mtrl_shape">  .xml</drawable>
+    <drawable name="abc_btn_radio_material"> \t .xml</drawable>
+    <drawable name="abc_cab_background_internal_bg">   .xml</drawable>
+    <drawable name="abc_cab_background_top_material">   .xml</drawable>
+    <drawable name="abc_dialog_material_background">   .xml</drawable>
+    <drawable name="abc_edit_text_material"> \t .xml</drawable>
+    <drawable name="abc_ic_ab_back_material">   .xml</drawable>
+    <drawable name="abc_ic_arrow_drop_right_black_24dp">   .xml</drawable>
+    <drawable name="abc_ic_clear_material">   .xml</drawable>
+    <drawable name="abc_ic_go_search_api_material">  \t.xml</drawable>
+    <drawable name="abc_ic_menu_overflow_material">\t  .xml</drawable>
+    <drawable name="abc_ic_search_api_material">   .xml</drawable>
+    <drawable name="abc_ic_voice_search_api_material">   .xml</drawable>
+    <drawable name="abc_item_background_holo_dark">\f  .xml</drawable>
+    <drawable name="abc_item_background_holo_light">  .xml</drawable>
+    <drawable name="abc_list_selector_background_transition_holo_dark">  \f.xml</drawable>
+    <drawable name="abc_list_selector_background_transition_holo_light">   .xml</drawable>
+    <drawable name="abc_list_selector_holo_dark">   .xml</drawable>
+    <drawable name="abc_list_selector_holo_light"> \t .xml</drawable>
+    <drawable name="abc_ratingbar_indicator_material">   .xml</drawable>
+    <drawable name="abc_ratingbar_material">  .xml</drawable>
+    <drawable name="abc_ratingbar_small_material">\f  .xml</drawable>
+    <drawable name="abc_seekbar_thumb_material">   .xml</drawable>
+    <drawable name="abc_seekbar_tick_mark_material">   .xml</drawable>
+    <drawable name="abc_seekbar_track_material">　  .xml</drawable>
+    <drawable name="abc_spinner_textfield_background_material">   .xml</drawable>
+    <drawable name="abc_switch_thumb_material">   .xml</drawable>
+    <drawable name="abc_tab_indicator_material"> \f .xml</drawable>
+    <drawable name="abc_text_cursor_material">\f\t .xml</drawable>
+    <drawable name="abc_textfield_search_material">\f  .xml</drawable>
+    <drawable name="abc_vector_test">\f  .xml</drawable>
+    <drawable name="action_bar_bg">   .xml</drawable>
+    <drawable name="animated_download">   .xml</drawable>
+    <drawable name="animated_download_background">   .xml</drawable>
+    <drawable name="avd_hide_password"> \t .xml</drawable>
+    <drawable name="avd_loading_skeleton_gallery">   .xml</drawable>
+    <drawable name="avd_loading_skeleton_lolomo">   .xml</drawable>
+    <drawable name="avd_loading_skeleton_lolomo_billboard">\f  .xml</drawable>
+    <drawable name="avd_lolomo_row_dark_circle_placeholder">   .xml</drawable>
+    <drawable name="avd_lolomo_row_dark_placeholder"> 　\t.xml</drawable>
+    <drawable name="avd_lolomo_row_light_circle_placeholder">   .xml</drawable>
+    <drawable name="avd_lolomo_row_light_placeholder">\t  .xml</drawable>
+    <drawable name="avd_progress_indeterminate_horizontal">   .xml</drawable>
+    <drawable name="avd_show_password">　  .xml</drawable>
+    <drawable name="avd_trailers_feed_loading_skeleton">   .xml</drawable>
+    <drawable name="bg_img">\t　 .xml</drawable>
+    <drawable name="bg_kids_download_button">\f  .xml</drawable>
+    <drawable name="billboard_portrait_bottom_gradient"> \t .xml</drawable>
+    <drawable name="billboard_portrait_top_gradient">  \f.xml</drawable>
+    <drawable name="black_rounded_grey_stroke">　  .xml</drawable>
+    <drawable name="cast_expanded_controller_actionbar_bg_gradient_light">  　.xml</drawable>
+    <drawable name="cast_expanded_controller_bg_gradient_light">  \f.xml</drawable>
+    <drawable name="cast_expanded_controller_seekbar_thumb">   .xml</drawable>
+    <drawable name="cast_expanded_controller_seekbar_track">   .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_closed_caption">   .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_forward30">   .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_mute"> \f .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_pause">\t \t.xml</drawable>
+    <drawable name="cast_ic_expanded_controller_play">　  .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_rewind30">\t \f.xml</drawable>
+    <drawable name="cast_ic_expanded_controller_skip_next">  .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_skip_previous">   .xml</drawable>
+    <drawable name="cast_ic_expanded_controller_stop">\f\t　.xml</drawable>
+    <drawable name="cast_ic_mini_controller_closed_caption">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_forward30">\t \f.xml</drawable>
+    <drawable name="cast_ic_mini_controller_mute">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_pause">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_pause_large">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_play">  .xml</drawable>
+    <drawable name="cast_ic_mini_controller_play_large">　　 .xml</drawable>
+    <drawable name="cast_ic_mini_controller_rewind30"> \t .xml</drawable>
+    <drawable name="cast_ic_mini_controller_skip_next">\f\t .xml</drawable>
+    <drawable name="cast_ic_mini_controller_skip_prev">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_stop">   .xml</drawable>
+    <drawable name="cast_ic_mini_controller_stop_large">   .xml</drawable>
+    <drawable name="cast_ic_notification_connecting">   .xml</drawable>
+    <drawable name="cast_ic_notification_disconnect"> \f.xml</drawable>
+    <drawable name="cast_ic_notification_forward">\t  .xml</drawable>
+    <drawable name="cast_ic_notification_forward10"> \t .xml</drawable>
+    <drawable name="cast_ic_notification_forward30">   .xml</drawable>
+    <drawable name="cast_ic_notification_pause">   .xml</drawable>
+    <drawable name="cast_ic_notification_play">  .xml</drawable>
+    <drawable name="cast_ic_notification_rewind">   .xml</drawable>
+    <drawable name="cast_ic_notification_rewind10">   .xml</drawable>
+    <drawable name="cast_ic_notification_rewind30">  \f.xml</drawable>
+    <drawable name="cast_ic_notification_skip_next">   .xml</drawable>
+    <drawable name="cast_ic_notification_skip_prev">\t  .xml</drawable>
+    <drawable name="cast_ic_notification_small_icon">  .xml</drawable>
+    <drawable name="cast_ic_notification_stop_live_stream">   .xml</drawable>
+    <drawable name="cast_mini_controller_gradient_light">   .xml</drawable>
+    <drawable name="cast_mini_controller_progress_drawable">   .xml</drawable>
+    <drawable name="cast_player_scrubber_control_selector_holo_dark">\f  .xml</drawable>
+    <drawable name="cast_player_scrubber_progress_horizontal_holo_dark">   .xml</drawable>
+    <drawable name="cast_skip_ad_label_border">   .xml</drawable>
+    <drawable name="circle">   .xml</drawable>
+    <drawable name="coming_soon_icon_shade">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_dark">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_dark_focused"> \f .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_dark_normal">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_disabled">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_light">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_light_focused">   .xml</drawable>
+    <drawable name="common_google_signin_btn_icon_light_normal"> \t .xml</drawable>
+    <drawable name="common_google_signin_btn_text_dark">　  .xml</drawable>
+    <drawable name="common_google_signin_btn_text_dark_focused"> \t .xml</drawable>
+    <drawable name="common_google_signin_btn_text_dark_normal">   .xml</drawable>
+    <drawable name="common_google_signin_btn_text_disabled">   .xml</drawable>
+    <drawable name="common_google_signin_btn_text_light">\t  .xml</drawable>
+    <drawable name="common_google_signin_btn_text_light_focused">\t  .xml</drawable>
+    <drawable name="common_google_signin_btn_text_light_normal"> \f .xml</drawable>
+    <drawable name="confirm_information_background"> \f .xml</drawable>
+    <drawable name="context_icon_checkmark">  .xml</drawable>
+    <drawable name="context_icon_devices"> 　 .xml</drawable>
+    <drawable name="cw_progress_bar">\t\f .xml</drawable>
+    <drawable name="cw_test_progress_bar">   .xml</drawable>
+    <drawable name="dark_img_placeholder">\t  .xml</drawable>
+    <drawable name="design_bottom_navigation_item_background">   .xml</drawable>
+    <drawable name="design_fab_background"> 　 .xml</drawable>
+    <drawable name="design_password_eye">   .xml</drawable>
+    <drawable name="design_snackbar_background">   .xml</drawable>
+    <drawable name="divider_list_line"> \t .xml</drawable>
+    <drawable name="download_progress_bar">   .xml</drawable>
+    <drawable name="dp_hero_gradient">   .xml</drawable>
+    <drawable name="dp_hero_gradient_side">   .xml</drawable>
+    <drawable name="dp_tab_menu_selectable_text">   .xml</drawable>
+    <drawable name="eog_continue_bg">   .xml</drawable>
+    <drawable name="eog_img_sidebar_gradient"> 　 .xml</drawable>
+    <drawable name="eog_img_sidebar_gradient_right">  .xml</drawable>
+    <drawable name="eog_plan_bg_active">   .xml</drawable>
+    <drawable name="eog_plan_bg_inactive">   .xml</drawable>
+    <drawable name="episode_row_progress_bar">  .xml</drawable>
+    <drawable name="fab_back_to_dialer_bg">   .xml</drawable>
+    <drawable name="fab_contact_us_dial_bg">  .xml</drawable>
+    <drawable name="fab_contact_us_dialer_cancel_bg"> 　 .xml</drawable>
+    <drawable name="free_legend">   .xml</drawable>
+    <drawable name="fullscreen_tutorial_dl_icon">  .xml</drawable>
+    <drawable name="gradient_left_black_right_clear">   .xml</drawable>
+    <drawable name="gradient_top_black_bottom_clear">\t  .xml</drawable>
+    <drawable name="gradient_top_clear_bottom_black">   .xml</drawable>
+    <drawable name="grey_rounded_grey_stroke">   .xml</drawable>
+    <drawable name="hero_row_certification_bg">   .xml</drawable>
+    <drawable name="ic_account_profile"> \f .xml</drawable>
+    <drawable name="ic_action_cancel">  .xml</drawable>
+    <drawable name="ic_action_cancel_black"> 　 .xml</drawable>
+    <drawable name="ic_arrow_back">   .xml</drawable>
+    <drawable name="ic_arrow_down_24dp">   .xml</drawable>
+    <drawable name="ic_audio_off">   .xml</drawable>
+    <drawable name="ic_audio_on"> \t .xml</drawable>
+    <drawable name="ic_check_network">\f  .xml</drawable>
+    <drawable name="ic_chevron_down">   .xml</drawable>
+    <drawable name="ic_chevron_right">\t\t .xml</drawable>
+    <drawable name="ic_chevron_small">   .xml</drawable>
+    <drawable name="ic_chevron_up">\t\t\t.xml</drawable>
+    <drawable name="ic_close_black_24dp">　\f .xml</drawable>
+    <drawable name="ic_coming_soon_fullscreen_off">   .xml</drawable>
+    <drawable name="ic_coming_soon_fullscreen_on"> .xml</drawable>
+    <drawable name="ic_coming_soon_manual_play">  \t.xml</drawable>
+    <drawable name="ic_coming_soon_playable">   .xml</drawable>
+    <drawable name="ic_coming_soon_playback_error">\f  .xml</drawable>
+    <drawable name="ic_coming_soon_refresh">  \t.xml</drawable>
+    <drawable name="ic_coming_soon_remind_me_bell"> \f .xml</drawable>
+    <drawable name="ic_coming_soon_remind_me_check">   .xml</drawable>
+    <drawable name="ic_coming_soon_remind_me_plus">   .xml</drawable>
+    <drawable name="ic_coming_soon_replay">   .xml</drawable>
+    <drawable name="ic_cs_exit_to_app">  .xml</drawable>
+    <drawable name="ic_cw_info">  \t.xml</drawable>
+    <drawable name="ic_cw_info_billboard"> \f .xml</drawable>
+    <drawable name="ic_delete_garbage_can"> \t .xml</drawable>
+    <drawable name="ic_device_android_phone">  　.xml</drawable>
+    <drawable name="ic_device_android_tablet">   .xml</drawable>
+    <drawable name="ic_dialpad_btn">　  .xml</drawable>
+    <drawable name="ic_dialpad_btn_selected">   .xml</drawable>
+    <drawable name="ic_download_badge_complete">\f\t .xml</drawable>
+    <drawable name="ic_download_badge_error">\t  .xml</drawable>
+    <drawable name="ic_download_badge_paused">  .xml</drawable>
+    <drawable name="ic_download_complete">   .xml</drawable>
+    <drawable name="ic_download_error">   .xml</drawable>
+    <drawable name="ic_download_icon">\t  .xml</drawable>
+    <drawable name="ic_download_prequeued">   .xml</drawable>
+    <drawable name="ic_download_progress">   .xml</drawable>
+    <drawable name="ic_download_progress_icon"> \t .xml</drawable>
+    <drawable name="ic_download_progress_icon_1">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_10">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_11">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_12">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_13"> \f .xml</drawable>
+    <drawable name="ic_download_progress_icon_2"> 　\t.xml</drawable>
+    <drawable name="ic_download_progress_icon_3">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_4">  \f.xml</drawable>
+    <drawable name="ic_download_progress_icon_5">   .xml</drawable>
+    <drawable name="ic_download_progress_icon_6">  \t.xml</drawable>
+    <drawable name="ic_download_progress_icon_7">　　 .xml</drawable>
+    <drawable name="ic_download_progress_icon_8">  .xml</drawable>
+    <drawable name="ic_download_progress_icon_9">  \t.xml</drawable>
+    <drawable name="ic_download_progress_resume">   .xml</drawable>
+    <drawable name="ic_download_queue">   .xml</drawable>
+    <drawable name="ic_download_video_quality">   .xml</drawable>
+    <drawable name="ic_emptygraphic_mylist">\f  .xml</drawable>
+    <drawable name="ic_exit_to_web">　  .xml</drawable>
+    <drawable name="ic_history_white_24dp">   .xml</drawable>
+    <drawable name="ic_icn_kids_retry">\f  .xml</drawable>
+    <drawable name="ic_icons_notifications">   .xml</drawable>
+    <drawable name="ic_internal_storage">　 \f.xml</drawable>
+    <drawable name="ic_internet_speed_test"> \t .xml</drawable>
+    <drawable name="ic_legal_document">　\f .xml</drawable>
+    <drawable name="ic_lolomo_row_dark_circle_placeholder"> \t .xml</drawable>
+    <drawable name="ic_lolomo_row_dark_placeholder">   .xml</drawable>
+    <drawable name="ic_lolomo_row_light_circle_placeholder">   .xml</drawable>
+    <drawable name="ic_lolomo_row_light_placeholder">   .xml</drawable>
+    <drawable name="ic_menu"> \f　.xml</drawable>
+    <drawable name="ic_menu_badge">  \t.xml</drawable>
+    <drawable name="ic_mic_btn">  .xml</drawable>
+    <drawable name="ic_mic_btn_selected">   .xml</drawable>
+    <drawable name="ic_my_download_empty_state">  .xml</drawable>
+    <drawable name="ic_mylist_button">  \t.xml</drawable>
+    <drawable name="ic_mylist_check">   .xml</drawable>
+    <drawable name="ic_mylist_check_drawer">   .xml</drawable>
+    <drawable name="ic_mylist_plus">  \t.xml</drawable>
+    <drawable name="ic_network_cellular">   .xml</drawable>
+    <drawable name="ic_network_wifi">   .xml</drawable>
+    <drawable name="ic_notifications">　  .xml</drawable>
+    <drawable name="ic_play_button">\t  .xml</drawable>
+    <drawable name="ic_play_svg">   .xml</drawable>
+    <drawable name="ic_player_back10">  \t.xml</drawable>
+    <drawable name="ic_player_back10_ab8579">   .xml</drawable>
+    <drawable name="ic_player_backarrow_ab8579">  \t.xml</drawable>
+    <drawable name="ic_player_cast">\f  .xml</drawable>
+    <drawable name="ic_player_cast_ab8579">   .xml</drawable>
+    <drawable name="ic_player_close_ab8579">   .xml</drawable>
+    <drawable name="ic_player_episodes_ab8579"> \t .xml</drawable>
+    <drawable name="ic_player_ff_ab8579">   .xml</drawable>
+    <drawable name="ic_player_forward10_ab8579">   .xml</drawable>
+    <drawable name="ic_player_nextepisode_ab8579">   .xml</drawable>
+    <drawable name="ic_player_pause_ab8579">　  .xml</drawable>
+    <drawable name="ic_player_play_ab8579">   .xml</drawable>
+    <drawable name="ic_player_rw_ab8579">   .xml</drawable>
+    <drawable name="ic_player_share_ab8579"> 　 .xml</drawable>
+    <drawable name="ic_player_subsdubs_ab8579">   .xml</drawable>
+    <drawable name="ic_player_up_next_icon">   .xml</drawable>
+    <drawable name="ic_player_volume_ab8579"> \f .xml</drawable>
+    <drawable name="ic_preapp_refresh">  </drawable>
+    <drawable name="ic_previews_show_dp">   .xml</drawable>
+    <drawable name="ic_previews_slide_show_close">   .xml</drawable>
+    <drawable name="ic_profile_add"> \f .xml</drawable>
+    <drawable name="ic_profile_picture_dropdown_arrow">　  .xml</drawable>
+    <drawable name="ic_profile_save_checkmark">   .xml</drawable>
+    <drawable name="ic_red_badge">   .xml</drawable>
+    <drawable name="ic_sd_card_storage">   .xml</drawable>
+    <drawable name="ic_search_ab">   .xml</drawable>
+    <drawable name="ic_search_active">   .xml</drawable>
+    <drawable name="ic_settings_qa_debug">   .xml</drawable>
+    <drawable name="ic_share_black_24dp">\f \t.xml</drawable>
+    <drawable name="ic_signup_warning">　 .xml</drawable>
+    <drawable name="ic_skip_intro"> 　\f.xml</drawable>
+    <drawable name="ic_smart_downloads">   .xml</drawable>
+    <drawable name="ic_speakerphone_btn">   .xml</drawable>
+    <drawable name="ic_speakerphone_btn_selected"> \f.xml</drawable>
+    <drawable name="ic_spinner_down_arrow">   .xml</drawable>
+    <drawable name="ic_subsdubs_loc">   .xml</drawable>
+    <drawable name="ic_tab_icon_comingsoon">\t　 .xml</drawable>
+    <drawable name="ic_tab_icon_home">   .xml</drawable>
+    <drawable name="ic_tab_icon_menu">\t  .xml</drawable>
+    <drawable name="ic_tab_icon_myprofile">   .xml</drawable>
+    <drawable name="ic_tab_icon_search">  \t.xml</drawable>
+    <drawable name="ic_tab_icon_trailers">  .xml</drawable>
+    <drawable name="ic_thumbs_down">   .xml</drawable>
+    <drawable name="ic_thumbs_down_outline">  .xml</drawable>
+    <drawable name="ic_thumbs_down_selectable">   .xml</drawable>
+    <drawable name="ic_thumbs_up">   .xml</drawable>
+    <drawable name="ic_thumbs_up_outline">   .xml</drawable>
+    <drawable name="ic_thumbs_up_selectable"> \t .xml</drawable>
+    <drawable name="ic_trailer_playable_hint"> 　 .xml</drawable>
+    <drawable name="ic_trending_up">   .xml</drawable>
+    <drawable name="ic_tv_white_24dp">   .xml</drawable>
+    <drawable name="ic_upside_down_triangle"> 　 .xml</drawable>
+    <drawable name="icon_play_list">   .xml</drawable>
+    <drawable name="icon_play_list_black">   .xml</drawable>
+    <drawable name="info_icon">\t 　.xml</drawable>
+    <drawable name="item_border_bottom">   .xml</drawable>
+    <drawable name="item_border_right">   .xml</drawable>
+    <drawable name="kids_action_bar_bg">   .xml</drawable>
+    <drawable name="kids_character_bg_blue">  .xml</drawable>
+    <drawable name="kids_character_bg_green">   .xml</drawable>
+    <drawable name="kids_character_bg_orange">   .xml</drawable>
+    <drawable name="kids_character_bg_purple"> 　 .xml</drawable>
+    <drawable name="kids_character_bg_yellow">  \f.xml</drawable>
+    <drawable name="kids_character_hero_info_background"> \f .xml</drawable>
+    <drawable name="kids_hero_row_certification_bg">   .xml</drawable>
+    <drawable name="kids_item_border_right"> \t\t.xml</drawable>
+    <drawable name="kids_parity_progress_bar_light"> \f .xml</drawable>
+    <drawable name="kids_progress_bar">   .xml</drawable>
+    <drawable name="kids_spinner_bg">   .xml</drawable>
+    <drawable name="kids_toolbar_transition_blue">   .xml</drawable>
+    <drawable name="kids_toolbar_transition_default"> \f .xml</drawable>
+    <drawable name="kids_toolbar_transition_green">   .xml</drawable>
+    <drawable name="kids_toolbar_transition_orange">   .xml</drawable>
+    <drawable name="kids_toolbar_transition_purple">   .xml</drawable>
+    <drawable name="kids_toolbar_transition_yellow">   .xml</drawable>
+    <drawable name="language_selector_radio_button">  \f.xml</drawable>
+    <drawable name="language_selector_tab_indicator_bg">  .xml</drawable>
+    <drawable name="light_img_placeholder">   .xml</drawable>
+    <drawable name="list_divider">   .xml</drawable>
+    <drawable name="login_edit_text_background">  　.xml</drawable>
+    <drawable name="login_edit_text_error_background">　\t .xml</drawable>
+    <drawable name="memento_image_gradient">\f  .xml</drawable>
+    <drawable name="memento_image_gradient_inverted">\f　 .xml</drawable>
+    <drawable name="mr_button_connected_dark">   .xml</drawable>
+    <drawable name="mr_button_connected_light">   .xml</drawable>
+    <drawable name="mr_button_connecting_dark"> \t .xml</drawable>
+    <drawable name="mr_button_connecting_light">   .xml</drawable>
+    <drawable name="mr_button_dark"> 　 .xml</drawable>
+    <drawable name="mr_button_light">   .xml</drawable>
+    <drawable name="mr_dialog_close_dark">   .xml</drawable>
+    <drawable name="mr_dialog_close_light">   .xml</drawable>
+    <drawable name="mr_dialog_material_background_dark">   .xml</drawable>
+    <drawable name="mr_dialog_material_background_light">   .xml</drawable>
+    <drawable name="mr_group_collapse">   .xml</drawable>
+    <drawable name="mr_group_expand">   .xml</drawable>
+    <drawable name="mr_media_pause_dark">   .xml</drawable>
+    <drawable name="mr_media_pause_light">  \f.xml</drawable>
+    <drawable name="mr_media_play_dark">   .xml</drawable>
+    <drawable name="mr_media_play_light">   .xml</drawable>
+    <drawable name="mr_media_stop_dark">  \f.xml</drawable>
+    <drawable name="mr_media_stop_light"> \t .xml</drawable>
+    <drawable name="mr_vol_type_audiotrack_dark">   .xml</drawable>
+    <drawable name="mr_vol_type_audiotrack_light">   .xml</drawable>
+    <drawable name="navigation_empty_icon">   .xml</drawable>
+    <drawable name="netflix_legend">　  .xml</drawable>
+    <drawable name="netflix_progress_medium_holo_no_bg">\t  .xml</drawable>
+    <drawable name="notification_action_background">   .xml</drawable>
+    <drawable name="notification_bg">   .xml</drawable>
+    <drawable name="notification_bg_low">\t .xml</drawable>
+    <drawable name="notification_icon_background">  \f.xml</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <drawable name="notification_tile_bg">   .xml</drawable>
+    <drawable name="outline_button">   .xml</drawable>
+    <drawable name="payment_lock">   .xml</drawable>
+    <drawable name="plan_bg">   .xml</drawable>
+    <drawable name="plan_choice_layout_background">   .xml</drawable>
+    <drawable name="plan_choice_tablet_layout_background">   .xml</drawable>
+    <drawable name="plan_header_deselected_padding">   .xml</drawable>
+    <drawable name="plan_header_selected"> \t .xml</drawable>
+    <drawable name="plan_header_triangle">   .xml</drawable>
+    <drawable name="plan_selection_check_mark"> \f　.xml</drawable>
+    <drawable name="plan_selection_check_mark_background">\f  .xml</drawable>
+    <drawable name="plan_selection_check_mark_selected">\t  .xml</drawable>
+    <drawable name="plan_selection_header_deselected">   .xml</drawable>
+    <drawable name="plan_selection_header_selected">   .xml</drawable>
+    <drawable name="plan_selection_header_tablet_deselected">   .xml</drawable>
+    <drawable name="plan_selection_header_tablet_selected"> 　 .xml</drawable>
+    <drawable name="plan_selection_mark_background">   .xml</drawable>
+    <drawable name="plan_selection_x_mark"> \t.xml</drawable>
+    <drawable name="plan_selection_x_mark_selected"> 　 .xml</drawable>
+    <drawable name="player_activity_panels_background">   .xml</drawable>
+    <drawable name="player_buffering_bgd">   .xml</drawable>
+    <drawable name="player_current_time_exp_bgd">   .xml</drawable>
+    <drawable name="player_gradient_ab8579">  \t.xml</drawable>
+    <drawable name="player_seekbar_handle">   .xml</drawable>
+    <drawable name="player_seekbar_handle_ab8579">   .xml</drawable>
+    <drawable name="player_seekbar_timeline_progress"> \f .xml</drawable>
+    <drawable name="player_triangle">   .xml</drawable>
+    <drawable name="post_play_background_overlay_vertical">   .xml</drawable>
+    <drawable name="post_play_video_border">\f  .xml</drawable>
+    <drawable name="preapp_image_gradient">  \t.xml</drawable>
+    <drawable name="preapp_image_gradient_top">\f　 .xml</drawable>
+    <drawable name="preapp_mobile_signin">   </drawable>
+    <drawable name="preapp_preview">\f\t </drawable>
+    <drawable name="preapp_progress_bar"> \f .xml</drawable>
+    <drawable name="preapp_static1">   </drawable>
+    <drawable name="preapp_static2">\t\t </drawable>
+    <drawable name="preapp_static3"> \t </drawable>
+    <drawable name="preference_list_divider_material">   .xml</drawable>
+    <drawable name="preview_progress_bar">   .xml</drawable>
+    <drawable name="previews_box_art_circle">   .xml</drawable>
+    <drawable name="previews_box_art_gradient">   .xml</drawable>
+    <drawable name="previews_play_now_border"> \t .xml</drawable>
+    <drawable name="quick_actions_border">   .xml</drawable>
+    <drawable name="rating_existing_user_graphic">\t </drawable>
+    <drawable name="red_button">\f  .xml</drawable>
+    <drawable name="red_netflix_circle"> \t\f.xml</drawable>
+    <drawable name="round_grey20_ripple_with_border"> 　 .xml</drawable>
+    <drawable name="round_white_ripple_with_border">   .xml</drawable>
+    <drawable name="search_view_bg">   .xml</drawable>
+    <drawable name="search_view_bg_kids">   .xml</drawable>
+    <drawable name="search_view_right_bg">   .xml</drawable>
+    <drawable name="search_view_right_bg_kids">   .xml</drawable>
+    <drawable name="season_spinner_background">   .xml</drawable>
+    <drawable name="seek_button_back">   .xml</drawable>
+    <drawable name="seek_button_back_small">   .xml</drawable>
+    <drawable name="seek_button_circle">  .xml</drawable>
+    <drawable name="seek_button_forward"> 　.xml</drawable>
+    <drawable name="seek_button_forward_small">   .xml</drawable>
+    <drawable name="selectable_app_settings_item_background">   .xml</drawable>
+    <drawable name="selectable_avatar_mask">   .xml</drawable>
+    <drawable name="selectable_cs_bgd_with_press">  .xml</drawable>
+    <drawable name="selectable_custom_support_link_background">   .xml</drawable>
+    <drawable name="selectable_dial_btn_bgd_with_press">  .xml</drawable>
+    <drawable name="selectable_item_background">  .xml</drawable>
+    <drawable name="selectable_item_background_opaque_grey">   .xml</drawable>
+    <drawable name="selectable_item_foreground">   .xml</drawable>
+    <drawable name="selectable_round_item_background"> \f .xml</drawable>
+    <drawable name="selectable_round_item_background_active">\t　 .xml</drawable>
+    <drawable name="selectable_round_item_background_focused">  .xml</drawable>
+    <drawable name="selectable_search_result_foreground">\t  .xml</drawable>
+    <drawable name="selectable_video_background">   .xml</drawable>
+    <drawable name="selectable_video_background_with_press">\f \f.xml</drawable>
+    <drawable name="selected_profile_border">   .xml</drawable>
+    <drawable name="settings_list_divider">  　.xml</drawable>
+    <drawable name="shadow_black_to_trans">  \f.xml</drawable>
+    <drawable name="shadow_black_to_trans_horizontal">\f  .xml</drawable>
+    <drawable name="shadow_trans_to_black">   .xml</drawable>
+    <drawable name="shadow_trans_to_blue">　  .xml</drawable>
+    <drawable name="short_form_ab9296_duration_rectangle"> 　 .xml</drawable>
+    <drawable name="short_form_ab9296_play_button"> \t .xml</drawable>
+    <drawable name="signup_progress_spinner_medium">  \t.xml</drawable>
+    <drawable name="sliding_doors_pager_default_dot">   .xml</drawable>
+    <drawable name="sliding_doors_pager_dot">\f  .xml</drawable>
+    <drawable name="sliding_doors_pager_selected_dot">   .xml</drawable>
+    <drawable name="star_rating_netflix">   .xml</drawable>
+    <drawable name="star_rating_netflix_small">   .xml</drawable>
+    <drawable name="star_rating_netflix_tiny">   .xml</drawable>
+    <drawable name="star_rating_user">　  .xml</drawable>
+    <drawable name="star_rating_user_small">   .xml</drawable>
+    <drawable name="star_rating_user_tiny">  \t.xml</drawable>
+    <drawable name="status_bar_gradient">   .xml</drawable>
+    <drawable name="survey_circle">   .xml</drawable>
+    <drawable name="survey_circle_pressed">   .xml</drawable>
+    <drawable name="survey_selection_trans"> 　 .xml</drawable>
+    <drawable name="tab_background">   .xml</drawable>
+    <drawable name="tags_separator_ab9080">\t\f .xml</drawable>
+    <drawable name="text_input_layout_background">   .xml</drawable>
+    <drawable name="text_input_layout_error_background">   .xml</drawable>
+    <drawable name="text_input_layout_focused_background">   .xml</drawable>
+    <drawable name="text_input_layout_validated_background">   .xml</drawable>
+    <drawable name="tin_tab_icon_cancel"> \f .xml</drawable>
+    <drawable name="tin_tab_icon_devices">   .xml</drawable>
+    <drawable name="tin_tab_icon_price"> \t .xml</drawable>
+    <drawable name="tooltip_frame_dark">   .xml</drawable>
+    <drawable name="tooltip_frame_light">\t  .xml</drawable>
+    <drawable name="triangle">   .xml</drawable>
+    <drawable name="up_button"> \f .xml</drawable>
+    <drawable name="used_legend">\t  .xml</drawable>
+    <drawable name="user_message_background">\t  .xml</drawable>
+    <drawable name="video_details_gradient_background">   .xml</drawable>
+    <drawable name="voice_search_btn_bg">\f  .xml</drawable>
+    <drawable name="voice_search_btn_default_bg"> \t　.xml</drawable>
+    <drawable name="voice_search_btn_selected_bg">   .xml</drawable>
+    <drawable name="vpi__tab_indicator">   .xml</drawable>
+    <drawable name="welcome_tab_header_background">\t  .xml</drawable>
+    <drawable name="white_ripple_with_border">   .xml</drawable>
+    <drawable name="word_party_pug_progress">  \f.xml</drawable>
+    <drawable name="word_party_pug_progress_bg">   .xml</drawable>
+</resources>

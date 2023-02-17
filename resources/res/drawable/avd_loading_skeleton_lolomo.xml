@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_2131230739_avd_loading_skeleton_lolomo__0">
+    <target android:name="0_title" android:animation="@drawable/res_2131230740_avd_loading_skeleton_lolomo__1"/>
+    <target android:name="0_0" android:animation="@drawable/res_2131230751_avd_loading_skeleton_lolomo__2"/>
+    <target android:name="0_1" android:animation="@drawable/res_2131230753_avd_loading_skeleton_lolomo__3"/>
+    <target android:name="0_2" android:animation="@drawable/res_2131230754_avd_loading_skeleton_lolomo__4"/>
+    <target android:name="0_3" android:animation="@drawable/res_2131230755_avd_loading_skeleton_lolomo__5"/>
+    <target android:name="1_title" android:animation="@drawable/res_2131230756_avd_loading_skeleton_lolomo__6"/>
+    <target android:name="1_0" android:animation="@drawable/res_2131230757_avd_loading_skeleton_lolomo__7"/>
+    <target android:name="1_1" android:animation="@drawable/res_2131230758_avd_loading_skeleton_lolomo__8"/>
+    <target android:name="1_2" android:animation="@drawable/res_2131230759_avd_loading_skeleton_lolomo__9"/>
+    <target android:name="1_3" android:animation="@drawable/res_2131230741_avd_loading_skeleton_lolomo__10"/>
+    <target android:name="2_title" android:animation="@drawable/res_2131230742_avd_loading_skeleton_lolomo__11"/>
+    <target android:name="2_0" android:animation="@drawable/res_2131230743_avd_loading_skeleton_lolomo__12"/>
+    <target android:name="2_1" android:animation="@drawable/res_2131230744_avd_loading_skeleton_lolomo__13"/>
+    <target android:name="2_2" android:animation="@drawable/res_2131230745_avd_loading_skeleton_lolomo__14"/>
+    <target android:name="2_3" android:animation="@drawable/res_2131230746_avd_loading_skeleton_lolomo__15"/>
+    <target android:name="3_title" android:animation="@drawable/res_2131230747_avd_loading_skeleton_lolomo__16"/>
+    <target android:name="3_0" android:animation="@drawable/res_2131230748_avd_loading_skeleton_lolomo__17"/>
+    <target android:name="3_1" android:animation="@drawable/res_2131230749_avd_loading_skeleton_lolomo__18"/>
+    <target android:name="3_2" android:animation="@drawable/res_2131230750_avd_loading_skeleton_lolomo__19"/>
+    <target android:name="3_3" android:animation="@drawable/res_2131230752_avd_loading_skeleton_lolomo__20"/>
+</animated-vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="keep">   .xml</raw>
+    <raw name="linphonerc_default"> \f\f</raw>
+    <raw name="linphonerc_factory"> \f\f</raw>
+    <raw name="message_sound_boom_boom">   .mp3</raw>
+    <raw name="notification">\t  .mp3</raw>
+    <raw name="nrdp_default_keys">  \t</raw>
+    <raw name="voip">   </raw>
+</resources>

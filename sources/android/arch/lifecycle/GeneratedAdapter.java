@@ -1,0 +1,6 @@
+package android.arch.lifecycle;
+
+import android.arch.lifecycle.Lifecycle;
+public interface GeneratedAdapter {
+    void callMethods(LifecycleOwner lifecycleOwner, Lifecycle.Event event, boolean z, MethodCallsLogger methodCallsLogger);
+}

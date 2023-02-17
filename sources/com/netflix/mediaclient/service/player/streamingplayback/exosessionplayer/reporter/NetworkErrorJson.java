@@ -1,0 +1,26 @@
+package com.netflix.mediaclient.service.player.streamingplayback.exosessionplayer.reporter;
+public enum NetworkErrorJson {
+    DNS_FAILURE,
+    DNS_TIMEOUT,
+    DNS_NOT_FOUND,
+    CONNECTION_ERROR,
+    SOCKET_ERROR,
+    CONNECTION_TIMEOUT,
+    DATA_TIMEOUT,
+    NO_ROUTE_TO_HOST,
+    CONNECTION_CLOSED,
+    CONNECTION_REFUSED,
+    CONNECTION_RESET,
+    CONNECTION_SLOW,
+    UNTRUSTED_CERT,
+    EXPIRED_CERT,
+    REVOKED_CERT,
+    NO_CIPHER,
+    HANDSHAKE_FAILED,
+    MAXIMUM_REDIRECTS_EXCEEDED,
+    MALFORMED_HTTP_RESPONSE,
+    DNS_CONNECTION_REFUSED,
+    HTTP_TIMEOUT,
+    HTTP_ERROR,
+    BAD_CONTENT
+}

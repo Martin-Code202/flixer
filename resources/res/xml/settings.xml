@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:key="pref.screen">
+    <PreferenceCategory android:title="@string/label_pref_settings_category_playback" android:key="video.playback">
+        <com.netflix.mediaclient.ui.bandwidthsetting.BandwidthPreference android:icon="@drawable/ic_network_cellular" android:layout="@layout/settings_item_layout" android:title="@string/label_bw_header" android:key="nf.bw_save" android:summary="@string/label_bw_automatic_header" android:positiveButtonText="@string/label_ok" android:negativeButtonText="@string/label_cancel"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_pref_settings_category_notification" android:key="pref.notification">
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/ic_notifications" android:title="@string/label_pref_settings_allow_notifications" android:key="nf_notification_enable" android:defaultValue="false"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_pref_settings_category_downloads" android:key="pref.downloads">
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/ic_smart_downloads" android:title="@string/label_pref_settings_smart_downloads" android:key="pref.downloads.smart"/>
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/ic_network_wifi" android:title="@string/label_pref_settings_wifi_warning_title" android:key="pref.downloads.wifi_only"/>
+        <ListPreference android:icon="@drawable/ic_download_video_quality" android:layout="@layout/settings_item_layout" android:title="@string/offline_message_quality_title" android:key="pref.downloads.video_quality" android:summary="@string/offline_message_quality_standard" android:negativeButtonText="@string/label_cancel"/>
+        <Preference android:icon="@drawable/ic_internal_storage" android:title="@string/offline_message_download_location" android:key="pref.downloads.storage_selector"/>
+        <Preference android:icon="@drawable/ic_delete_garbage_can" android:title="@string/label_pref_settings_downloads_remove_all" android:key="pref.downloads.remove_all"/>
+        <com.netflix.mediaclient.ui.settings.StoragePreference android:layout="@layout/storage"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_about">
+        <Preference android:icon="@drawable/ic_device_android_phone" android:title="@string/label_device" android:key="ui.about.device"/>
+        <Preference android:icon="@drawable/ic_account_profile" android:title="@string/label_account" android:key="ui.account" android:widgetLayout="@layout/exit_app_icon"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_diagnostics" android:key="ui.diagnosis">
+        <Preference android:icon="@drawable/ic_check_network" android:title="@string/label_check_network" android:key="ui.diagnosis.network"/>
+        <Preference android:icon="@drawable/ic_internet_speed_test" android:title="@string/label_internet_speed_test" android:key="ui.diagnosis.speed.test" android:widgetLayout="@layout/exit_app_icon"/>
+        <Preference android:icon="@drawable/ic_download_icon" android:title="@string/button_message_download" android:key="ui.diagnosis.download"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_pref_settings_category_legal">
+        <Preference android:icon="@drawable/ic_legal_document" android:title="@string/label_open_source_licenses" android:key="@string/settings_key_open_source_licenses"/>
+        <Preference android:icon="@drawable/ic_legal_document" android:title="@string/label_pref_settings_privacy_policy" android:key="pref.privacy" android:widgetLayout="@layout/exit_app_icon"/>
+        <Preference android:icon="@drawable/ic_legal_document" android:title="@string/label_pref_settings_privacy_policy_cookies" android:key="pref.privacy.cookies" android:widgetLayout="@layout/exit_app_icon"/>
+        <Preference android:icon="@drawable/ic_legal_document" android:title="@string/label_pref_settings_legal_terms_of_use" android:key="pref.terms" android:widgetLayout="@layout/exit_app_icon"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/label_pref_settings_category_qa" android:key="pref.qa.debugonly">
+        <Preference android:icon="@drawable/ic_settings_qa_debug" android:key="ui.about.debug"/>
+        <Preference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_site" android:key="ui.site" android:summary="@string/label_site_summary"/>
+        <Preference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_reset_uibootloader" android:key="ui.reset_bootloader" android:summary="@string/label_reset_uibootloader_summary"/>
+        <Preference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_reset_license_sync_time" android:key="ui.reset_license_sync_time" android:summary="@string/label_reset_license_sync_time_summary"/>
+        <Preference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_bugreport" android:key="ui.bugreport" android:summary="@string/label_bugreport_summary"/>
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_playeroverlay_enable" android:key="ui.playeroverlay" android:summary="@string/label_playeroverlay_summary" android:defaultValue="false"/>
+        <ListPreference android:icon="@drawable/ic_settings_qa_debug" android:layout="@layout/settings_item_layout" android:title="@string/label_select_decoder" android:key="ui.videoDecoderFormat" android:summary="@string/label_select_video_format"/>
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_force_swvideo_title" android:key="ui.forceswdecoder" android:defaultValue="false"/>
+        <EditTextPreference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_bootParams" android:key="ui.bootParams" android:summary="@string/label_bootParams_summary"/>
+        <EditTextPreference android:icon="@drawable/ic_settings_qa_debug" android:title="@string/label_castappid_title" android:key="ui.castAppId" android:summary="@string/label_castappid_summary"/>
+    </PreferenceCategory>
+</PreferenceScreen>

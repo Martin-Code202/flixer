@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_us_dialer_buttons_margin_bottom">10dp</dimen>
+    <dimen name="contact_us_dialer_buttons_padding_on_side">0dp</dimen>
+    <dimen name="contact_us_dialer_fab_margin_bottom">15dp</dimen>
+    <dimen name="contact_us_landing_page_links_padding">5dp</dimen>
+    <dimen name="contact_us_landing_page_padding_left">100dp</dimen>
+    <dimen name="contact_us_landing_page_padding_right">100dp</dimen>
+    <dimen name="login_field_width">750dp</dimen>
+    <dimen name="login_margin">70dp</dimen>
+    <dimen name="signup_context_content_margin_top">30dp</dimen>
+    <dimen name="signup_context_margin_top">30dp</dimen>
+    <dimen name="signup_devices_image_horizontal_padding">10dp</dimen>
+    <dimen name="signup_header_welcome">66sp</dimen>
+    <dimen name="signup_plan_selection_choice_header_margin">48dp</dimen>
+    <dimen name="signup_plan_selection_heading_margin">50dp</dimen>
+    <dimen name="signup_registration_margin_top">40dp</dimen>
+    <dimen name="signup_welcome_content_padding_side">100dp</dimen>
+    <dimen name="signup_welcome_tab_bar_top_margin">0dp</dimen>
+    <dimen name="signup_welcome_tab_header_height">250dp</dimen>
+    <dimen name="signup_welcome_tab_header_top_padding">10dp</dimen>
+</resources>

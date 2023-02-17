@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="616dp" android:width="360dp" android:viewportWidth="360" android:viewportHeight="616">
+    <path android:name="item_video" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M0,0h360v203h-360z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,217h116v20h-116z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,343h116v20h-116z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text3" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M247,213L348,213L348,213C349.1,213 350,213.9 350,215L350,239L350,239C350,240.1 349.1,241 348,241L247,241L247,241C245.9,241 245,240.1 245,239L245,215L245,215C245,213.9 245.9,213 247,213Z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text4" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,251h309v20h-309z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text5" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,280h252v20h-252z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="item_video_text6" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,309h270v20h-270z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="next_item_video" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M0,413h360v203h-360z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+</vector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="700dp" android:width="360dp" android:viewportWidth="360" android:viewportHeight="700">
+    <path android:fillColor="#000000" android:pathData="M0,0h360v600h-360z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillAlpha="0" android:fillType="evenOdd"/>
+    <path android:name="billboard_art" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M63,205h234v103h-234z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="billboard_title" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M47,321L314,321A2,2 0,0 1,316 323L316,345A2,2 0,0 1,314 347L47,347A2,2 0,0 1,45 345L45,323A2,2 0,0 1,47 321z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="billboard_cta" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M136,362L136,394C136,395.1 136.9,396 138,396L222,396C223.1,396 224,395.1 224,394L224,362C224,360.9 223.1,360 222,360L138,360C136.9,360 136,360.9 136,362Z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,447l102,0l0,146l-102,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M119,447h102v146h-102z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M227,447h102v146h-102z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="0_3" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M336,447h24v146h-24z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_title" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,608h247v15h-247z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_0" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M10,631h102v69h-102z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_1" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M119,631h102v69h-102z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_2" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M227,631h102v69h-102z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:name="1_3" android:fillColor="?attr/videoCoverPlaceholderColor" android:pathData="M336,631h24v69h-24z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+</vector>

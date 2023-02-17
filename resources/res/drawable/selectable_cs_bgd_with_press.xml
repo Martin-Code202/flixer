@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/selectable_contact_us_active" android:radius="24dp" android:enterFadeDuration="@integer/ripple_anim_time_ms" android:exitFadeDuration="@integer/ripple_anim_time_ms"/>

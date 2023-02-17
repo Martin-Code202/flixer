@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kids_character_row_offset_right">88dp</dimen>
+    <dimen name="login_field_width">640dp</dimen>
+    <dimen name="login_margin">80dp</dimen>
+    <dimen name="player_panel_background_height">140dp</dimen>
+    <dimen name="pug_image_height">108dp</dimen>
+    <dimen name="pug_image_width">108dp</dimen>
+    <dimen name="pug_progress_height">160dp</dimen>
+    <dimen name="pug_progress_width">160dp</dimen>
+    <dimen name="signup_cta_button_text">22sp</dimen>
+    <dimen name="signup_header_text">21sp</dimen>
+    <dimen name="signup_header_text_small">@dimen/text_small</dimen>
+    <dimen name="signup_header_welcome">80sp</dimen>
+    <dimen name="signup_welcome_content_padding_side">80dp</dimen>
+    <dimen name="signup_welcome_cta_textSize">14.5sp</dimen>
+    <dimen name="signup_welcome_cta_vertical_padding">15dp</dimen>
+    <dimen name="survey_choice_text_size">19sp</dimen>
+    <dimen name="survey_header_text_size">19sp</dimen>
+    <dimen name="survey_margin">30dp</dimen>
+    <dimen name="survey_question_body_text_size">38sp</dimen>
+    <dimen name="survey_question_header_text_size">28sp</dimen>
+    <dimen name="survey_skip_text_size">18sp</dimen>
+    <dimen name="suvery_selection_margin">16dp</dimen>
+</resources>

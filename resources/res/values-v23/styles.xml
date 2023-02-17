@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131951659_base_textappearance_appcompat_widget_actionbar_menu" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="res_2131951669_base_textappearance_appcompat_widget_button_inverse" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </style>
+    <style name="res_2131951679_base_theme_appcompat" parent="@style/res_2131951709_base_v23_theme_appcompat">
+    </style>
+    <style name="res_2131951686_base_theme_appcompat_light" parent="@style/res_2131951710_base_v23_theme_appcompat_light">
+    </style>
+    <style name="res_2131951709_base_v23_theme_appcompat" parent="@style/res_2131951707_base_v22_theme_appcompat">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="res_2131951710_base_v23_theme_appcompat_light" parent="@style/res_2131951708_base_v22_theme_appcompat_light">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="res_2131951736_base_widget_appcompat_button_borderless_colored" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="res_2131951738_base_widget_appcompat_button_colored" parent="@android:style/Widget.Material.Button.Colored">
+    </style>
+    <style name="res_2131951769_base_widget_appcompat_ratingbar_indicator" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="res_2131951770_base_widget_appcompat_ratingbar_small" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="res_2131951776_base_widget_appcompat_spinner_underlined" parent="@android:style/Widget.Material.Spinner.Underlined">
+    </style>
+    <style name="CardView" parent="@style/Base_CardView">
+        <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
+    </style>
+    <style name="res_2131952207_theme_appcompat_light_noactionbar_light_statusbar" parent="@style/res_2131952206_theme_appcompat_light_noactionbar">
+        <item name="android:statusBarColor">@color/status_bar_kids_background_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="res_2131952241_theme_signup_native" parent="@style/res_2131952235_theme_netflix_light">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:progressBarStyle">@style/res_2131951846_netflix_progressbar</item>
+        <item name="android:actionBarStyle">@style/res_2131952045_signup_actionbar</item>
+        <item name="android:actionMenuTextAppearance">@style/LightActionBarTextAppearance</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="actionMenuTextColor">@color/black</item>
+        <item name="colorAccent">@color/base_blue</item>
+        <item name="colorPrimary">@color/app_color_primary</item>
+        <item name="colorPrimaryDark">@color/app_color_primary_dark</item>
+        <item name="netflixTextViewStyle">@style/NetflixSignUpTextViewStyle</item>
+        <item name="signupWarningViewStyle">@style/res_2131952070_signup_native_warning_container</item>
+        <item name="toolbarBackground">@color/signup_background_light</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

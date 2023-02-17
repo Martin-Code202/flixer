@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:key="pref.screen">
+    <SwitchPreference android:title="@string/label_pref_settings_smart_downloads" android:key="pref.downloads.smart"/>
+</PreferenceScreen>

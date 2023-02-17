@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="word_party_card_height">270dp</dimen>
+    <dimen name="word_party_card_plus_shadow_height">307dp</dimen>
+    <dimen name="word_party_card_width">480dp</dimen>
+</resources>

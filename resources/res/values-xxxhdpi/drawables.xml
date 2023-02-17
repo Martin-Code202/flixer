@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ab_logo">   </drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_000">  \t</drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_015"> \f </drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_000">　  </drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_015">   </drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00001">   </drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00012"> 　</drawable>
+    <drawable name="abc_ic_menu_copy_mtrl_am_alpha">   </drawable>
+    <drawable name="abc_ic_menu_cut_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_menu_paste_mtrl_am_alpha">   </drawable>
+    <drawable name="abc_ic_menu_selectall_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_menu_share_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_star_black_16dp">   </drawable>
+    <drawable name="abc_ic_star_black_36dp">   </drawable>
+    <drawable name="abc_ic_star_black_48dp">   </drawable>
+    <drawable name="abc_ic_star_half_black_16dp">\t  </drawable>
+    <drawable name="abc_ic_star_half_black_36dp">   </drawable>
+    <drawable name="abc_ic_star_half_black_48dp">   </drawable>
+    <drawable name="abc_scrubber_control_to_pressed_mtrl_000">   </drawable>
+    <drawable name="abc_scrubber_control_to_pressed_mtrl_005">   </drawable>
+    <drawable name="abc_spinner_mtrl_am_alpha">   </drawable>
+    <drawable name="abc_switch_track_mtrl_alpha">   </drawable>
+    <drawable name="abc_tab_indicator_mtrl_alpha">\t\f </drawable>
+    <drawable name="abc_text_select_handle_left_mtrl_dark">   </drawable>
+    <drawable name="abc_text_select_handle_left_mtrl_light">   </drawable>
+    <drawable name="abc_text_select_handle_right_mtrl_dark">  \t</drawable>
+    <drawable name="abc_text_select_handle_right_mtrl_light"> 　 </drawable>
+    <drawable name="btn_season_selector">  \f</drawable>
+    <drawable name="btn_season_selector_bk"> \f\f</drawable>
+    <drawable name="btn_voice_search">\t  </drawable>
+    <drawable name="cast_abc_scrubber_control_to_pressed_mtrl_000">   </drawable>
+    <drawable name="cast_abc_scrubber_control_to_pressed_mtrl_005">   </drawable>
+    <drawable name="cast_ic_stop_circle_filled_grey600">   </drawable>
+    <drawable name="cast_ic_stop_circle_filled_white"> \f\t</drawable>
+    <drawable name="design_ic_visibility">   </drawable>
+    <drawable name="design_ic_visibility_off">   </drawable>
+    <drawable name="ic_arrow_down_24dp"> \f </drawable>
+    <drawable name="ic_block">   </drawable>
+    <drawable name="ic_build">\f  </drawable>
+    <drawable name="ic_call">   </drawable>
+    <drawable name="ic_call_active">   </drawable>
+    <drawable name="ic_call_end">   </drawable>
+    <drawable name="ic_call_end_ongoing_notification">   </drawable>
+    <drawable name="ic_cancel_white_24dp">   </drawable>
+    <drawable name="ic_change_profile">   </drawable>
+    <drawable name="ic_change_profile_kids">   </drawable>
+    <drawable name="ic_credit_card">   </drawable>
+    <drawable name="ic_dialpad">   </drawable>
+    <drawable name="ic_edit"> \t</drawable>
+    <drawable name="ic_episodes">\f\f </drawable>
+    <drawable name="ic_exit_to_app">  </drawable>
+    <drawable name="ic_file_download_white_24dp">   </drawable>
+    <drawable name="ic_group_collapse_00">\f  </drawable>
+    <drawable name="ic_group_collapse_01">   </drawable>
+    <drawable name="ic_group_collapse_02">   </drawable>
+    <drawable name="ic_group_collapse_03">   </drawable>
+    <drawable name="ic_group_collapse_04">   </drawable>
+    <drawable name="ic_group_collapse_05">   </drawable>
+    <drawable name="ic_group_collapse_06"> \f </drawable>
+    <drawable name="ic_group_collapse_07">   </drawable>
+    <drawable name="ic_group_collapse_08">   </drawable>
+    <drawable name="ic_group_collapse_09">   </drawable>
+    <drawable name="ic_group_collapse_10">   </drawable>
+    <drawable name="ic_group_collapse_11">\f\t </drawable>
+    <drawable name="ic_group_collapse_12">  　</drawable>
+    <drawable name="ic_group_collapse_13">   </drawable>
+    <drawable name="ic_group_collapse_14"> 　</drawable>
+    <drawable name="ic_group_collapse_15">   </drawable>
+    <drawable name="ic_group_expand_00">   </drawable>
+    <drawable name="ic_group_expand_01">  \f</drawable>
+    <drawable name="ic_group_expand_02"> \t </drawable>
+    <drawable name="ic_group_expand_03">   </drawable>
+    <drawable name="ic_group_expand_04">   </drawable>
+    <drawable name="ic_group_expand_05">   </drawable>
+    <drawable name="ic_group_expand_06"> \f </drawable>
+    <drawable name="ic_group_expand_07">   </drawable>
+    <drawable name="ic_group_expand_08"> 　 </drawable>
+    <drawable name="ic_group_expand_09">\f  </drawable>
+    <drawable name="ic_group_expand_10">\t\f </drawable>
+    <drawable name="ic_group_expand_11">   </drawable>
+    <drawable name="ic_group_expand_12">  </drawable>
+    <drawable name="ic_group_expand_13">\t  </drawable>
+    <drawable name="ic_group_expand_14">   </drawable>
+    <drawable name="ic_group_expand_15"> 　 </drawable>
+    <drawable name="ic_lock">   </drawable>
+    <drawable name="ic_menu_share">  \t</drawable>
+    <drawable name="ic_mic">  \f</drawable>
+    <drawable name="ic_mic_off">\t  </drawable>
+    <drawable name="ic_mr_button_grey">   </drawable>
+    <drawable name="ic_nf_download_complete_white">   </drawable>
+    <drawable name="ic_nf_download_error_white">  \t</drawable>
+    <drawable name="ic_nf_helpchat">   </drawable>
+    <drawable name="ic_nf_request_title">\t  </drawable>
+    <drawable name="ic_offline_delete">　\t </drawable>
+    <drawable name="ic_ongoing_notification">   </drawable>
+    <drawable name="ic_pause">　  </drawable>
+    <drawable name="ic_play">   </drawable>
+    <drawable name="ic_preapp_refresh">\f　 </drawable>
+    <drawable name="ic_prequeued">  \t</drawable>
+    <drawable name="ic_sb_netflix_n"> 　 </drawable>
+    <drawable name="ic_skipback">   </drawable>
+    <drawable name="ic_speakerphone">\t  </drawable>
+    <drawable name="ic_speakerphone_off"> \f </drawable>
+    <drawable name="ic_statusbar_call">   </drawable>
+    <drawable name="ic_subsdubs">   </drawable>
+    <drawable name="ic_test_fail">  \t</drawable>
+    <drawable name="ic_test_pass">  　</drawable>
+    <drawable name="ic_volume">   </drawable>
+    <drawable name="ic_zoom_in">   </drawable>
+    <drawable name="ic_zoom_out">\f \t</drawable>
+    <drawable name="icon">   </drawable>
+    <drawable name="logo_ribbon_n">  \t</drawable>
+    <drawable name="netflix_splash">   </drawable>
+    <drawable name="quantum_ic_art_track_grey600_48">   </drawable>
+    <drawable name="quantum_ic_bigtop_updates_white_24">  </drawable>
+    <drawable name="quantum_ic_cast_connected_white_24">  \t</drawable>
+    <drawable name="quantum_ic_cast_white_36">   </drawable>
+    <drawable name="quantum_ic_clear_white_24">\t  </drawable>
+    <drawable name="quantum_ic_closed_caption_grey600_36">\f\f\t</drawable>
+    <drawable name="quantum_ic_closed_caption_white_36">   </drawable>
+    <drawable name="quantum_ic_forward_10_white_24">   </drawable>
+    <drawable name="quantum_ic_forward_30_grey600_36">   </drawable>
+    <drawable name="quantum_ic_forward_30_white_24">   </drawable>
+    <drawable name="quantum_ic_forward_30_white_36">   </drawable>
+    <drawable name="quantum_ic_keyboard_arrow_down_white_36"> \f </drawable>
+    <drawable name="quantum_ic_pause_circle_filled_grey600_36">   </drawable>
+    <drawable name="quantum_ic_pause_circle_filled_white_36">   </drawable>
+    <drawable name="quantum_ic_pause_grey600_36">   </drawable>
+    <drawable name="quantum_ic_pause_grey600_48">   </drawable>
+    <drawable name="quantum_ic_pause_white_24">   </drawable>
+    <drawable name="quantum_ic_play_arrow_grey600_36"> \f </drawable>
+    <drawable name="quantum_ic_play_arrow_grey600_48">\t\t </drawable>
+    <drawable name="quantum_ic_play_arrow_white_24">   </drawable>
+    <drawable name="quantum_ic_play_circle_filled_grey600_36">  \t</drawable>
+    <drawable name="quantum_ic_play_circle_filled_white_36">   </drawable>
+    <drawable name="quantum_ic_refresh_white_24"> \f </drawable>
+    <drawable name="quantum_ic_replay_10_white_24">   </drawable>
+    <drawable name="quantum_ic_replay_30_grey600_36">   </drawable>
+    <drawable name="quantum_ic_replay_30_white_24"> 　\t</drawable>
+    <drawable name="quantum_ic_replay_30_white_36">   </drawable>
+    <drawable name="quantum_ic_replay_white_24">\t \t</drawable>
+    <drawable name="quantum_ic_skip_next_grey600_36">   </drawable>
+    <drawable name="quantum_ic_skip_next_white_24">   </drawable>
+    <drawable name="quantum_ic_skip_next_white_36">   </drawable>
+    <drawable name="quantum_ic_skip_previous_grey600_36">   </drawable>
+    <drawable name="quantum_ic_skip_previous_white_24">\t\t　</drawable>
+    <drawable name="quantum_ic_skip_previous_white_36">   </drawable>
+    <drawable name="quantum_ic_stop_grey600_36"> \t </drawable>
+    <drawable name="quantum_ic_stop_grey600_48">   </drawable>
+    <drawable name="quantum_ic_stop_white_24">   </drawable>
+    <drawable name="quantum_ic_volume_off_grey600_36">  </drawable>
+    <drawable name="quantum_ic_volume_off_white_36">　  </drawable>
+    <drawable name="quantum_ic_volume_up_grey600_36">  \f</drawable>
+    <drawable name="quantum_ic_volume_up_white_36">  \f</drawable>
+    <drawable name="rating_existing_user_graphic">   </drawable>
+    <drawable name="signup_spinner">　  </drawable>
+    <drawable name="splash_spinner"> 　 </drawable>
+    <drawable name="star_netflix_rated">   </drawable>
+    <drawable name="star_netflix_rated_small">   </drawable>
+    <drawable name="star_netflix_rated_tiny">　　 </drawable>
+    <drawable name="star_no_selection">   </drawable>
+    <drawable name="star_no_selection_small">   </drawable>
+    <drawable name="star_no_selection_tiny">   </drawable>
+    <drawable name="star_user_rated"> \t　</drawable>
+    <drawable name="star_user_rated_small">   </drawable>
+    <drawable name="star_user_rated_tiny">   </drawable>
+</resources>

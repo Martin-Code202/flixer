@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="netflix_text_view_extra_text_sp">1</integer>
+</resources>

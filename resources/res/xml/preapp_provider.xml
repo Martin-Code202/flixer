@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" android:minWidth="320dp" android:minHeight="320dp" android:hint="@string/netflix_widget" android:initialLayout="@layout/preapp_widget_1plus2" android:previewImage="@drawable/preapp_preview" android:resizeMode="horizontal|vertical" android:minResizeWidth="110dp" android:minResizeHeight="40dp"/>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cw_info_lineSpacingMultiplier">0.75</dimen>
+    <dimen name="cw_info_textSize">14dp</dimen>
+</resources>

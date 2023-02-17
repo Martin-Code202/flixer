@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131952058_signup_native_formheadingtext" parent="@style/BaseTextStyle">
+        <item name="android:textSize">@dimen/text_small_medium</item>
+    </style>
+</resources>

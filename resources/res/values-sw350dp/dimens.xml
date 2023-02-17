@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_us_button_margin">12dp</dimen>
+    <dimen name="contact_us_button_padding">5dp</dimen>
+    <dimen name="contact_us_button_spacing">12dp</dimen>
+    <dimen name="contact_us_button_text_size">16sp</dimen>
+    <dimen name="contact_us_dialer_number_desc_size">12sp</dimen>
+    <dimen name="contact_us_dialer_number_size">36sp</dimen>
+    <dimen name="contact_us_dialer_pad_fab_margin_bottom">20dp</dimen>
+    <dimen name="contact_us_dialer_pad_margin_bottom">10dp</dimen>
+    <dimen name="contact_us_dialer_pad_margin_top">10dp</dimen>
+    <dimen name="contact_us_landing_page_title_margin_top">10dp</dimen>
+    <dimen name="contact_us_title_size">20sp</dimen>
+    <dimen name="login_field_width">230dp</dimen>
+    <dimen name="toolbar_subtitle_text_size">14dp</dimen>
+</resources>

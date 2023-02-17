@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ab_logo">   </drawable>
+    <drawable name="abc_ab_share_pack_mtrl_alpha">\f  </drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_000"> \f </drawable>
+    <drawable name="abc_btn_check_to_on_mtrl_015">   </drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_000">\f　 </drawable>
+    <drawable name="abc_btn_radio_to_on_mtrl_015">  \t</drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00001">   </drawable>
+    <drawable name="abc_btn_switch_to_on_mtrl_00012">\f  </drawable>
+    <drawable name="abc_cab_background_top_mtrl_alpha"> \t </drawable>
+    <drawable name="abc_ic_commit_search_api_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_menu_copy_mtrl_am_alpha">   </drawable>
+    <drawable name="abc_ic_menu_cut_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_menu_paste_mtrl_am_alpha">   </drawable>
+    <drawable name="abc_ic_menu_selectall_mtrl_alpha"> \t\f</drawable>
+    <drawable name="abc_ic_menu_share_mtrl_alpha">   </drawable>
+    <drawable name="abc_ic_star_black_16dp"> 　 </drawable>
+    <drawable name="abc_ic_star_black_36dp">   </drawable>
+    <drawable name="abc_ic_star_black_48dp">   </drawable>
+    <drawable name="abc_ic_star_half_black_16dp">   </drawable>
+    <drawable name="abc_ic_star_half_black_36dp">   </drawable>
+    <drawable name="abc_ic_star_half_black_48dp">   </drawable>
+    <drawable name="abc_list_divider_mtrl_alpha"> 　</drawable>
+    <drawable name="abc_list_focused_holo">   </drawable>
+    <drawable name="abc_list_longpressed_holo">   </drawable>
+    <drawable name="abc_list_pressed_holo_dark">  </drawable>
+    <drawable name="abc_list_pressed_holo_light">   </drawable>
+    <drawable name="abc_list_selector_disabled_holo_dark">   </drawable>
+    <drawable name="abc_list_selector_disabled_holo_light">  </drawable>
+    <drawable name="abc_menu_hardkey_panel_mtrl_mult">  </drawable>
+    <drawable name="abc_popup_background_mtrl_mult">   </drawable>
+    <drawable name="abc_scrubber_control_off_mtrl_alpha">  </drawable>
+    <drawable name="abc_scrubber_control_to_pressed_mtrl_000">\t　 </drawable>
+    <drawable name="abc_scrubber_control_to_pressed_mtrl_005">  </drawable>
+    <drawable name="abc_scrubber_primary_mtrl_alpha">   </drawable>
+    <drawable name="abc_scrubber_track_mtrl_alpha">\t  </drawable>
+    <drawable name="abc_spinner_mtrl_am_alpha"> \f </drawable>
+    <drawable name="abc_switch_track_mtrl_alpha">  \f</drawable>
+    <drawable name="abc_tab_indicator_mtrl_alpha">  　</drawable>
+    <drawable name="abc_text_select_handle_left_mtrl_dark">   </drawable>
+    <drawable name="abc_text_select_handle_left_mtrl_light">   </drawable>
+    <drawable name="abc_text_select_handle_middle_mtrl_dark">\f \f</drawable>
+    <drawable name="abc_text_select_handle_middle_mtrl_light">   </drawable>
+    <drawable name="abc_text_select_handle_right_mtrl_dark">　  </drawable>
+    <drawable name="abc_text_select_handle_right_mtrl_light"> \t </drawable>
+    <drawable name="abc_textfield_activated_mtrl_alpha">\f  </drawable>
+    <drawable name="abc_textfield_default_mtrl_alpha"> 　 </drawable>
+    <drawable name="abc_textfield_search_activated_mtrl_alpha">\f  </drawable>
+    <drawable name="abc_textfield_search_default_mtrl_alpha">  \t</drawable>
+    <drawable name="actor_still_placeholder">   </drawable>
+    <drawable name="bg_cdp_blue">   </drawable>
+    <drawable name="bg_cdp_green">   </drawable>
+    <drawable name="bg_cdp_orange">  \t</drawable>
+    <drawable name="bg_cdp_purple">   </drawable>
+    <drawable name="bg_cdp_yellow">　  </drawable>
+    <drawable name="btn_play_blue_normal">   </drawable>
+    <drawable name="btn_play_default_normal">   </drawable>
+    <drawable name="btn_play_green_normal">   </drawable>
+    <drawable name="btn_play_orange_normal"> 　 </drawable>
+    <drawable name="btn_play_purple_normal">   </drawable>
+    <drawable name="btn_play_yellow_normal">   </drawable>
+    <drawable name="btn_season_selector">   </drawable>
+    <drawable name="btn_season_selector_bk">\t\f </drawable>
+    <drawable name="btn_voice_search">   </drawable>
+    <drawable name="cast_abc_scrubber_control_off_mtrl_alpha">   </drawable>
+    <drawable name="cast_abc_scrubber_control_to_pressed_mtrl_000">   </drawable>
+    <drawable name="cast_abc_scrubber_control_to_pressed_mtrl_005">   </drawable>
+    <drawable name="cast_abc_scrubber_primary_mtrl_alpha"> \t </drawable>
+    <drawable name="cast_ic_notification_0">\t  </drawable>
+    <drawable name="cast_ic_notification_1">   </drawable>
+    <drawable name="cast_ic_notification_2">   </drawable>
+    <drawable name="cast_ic_notification_on"> \f </drawable>
+    <drawable name="cast_ic_stop_circle_filled_grey600"> \f </drawable>
+    <drawable name="cast_ic_stop_circle_filled_white">\t  </drawable>
+    <drawable name="cast_player_play_icon">   </drawable>
+    <drawable name="cast_player_scrubber_disabled_holo">   </drawable>
+    <drawable name="cast_player_scrubber_focused_holo">\t  </drawable>
+    <drawable name="cast_player_scrubber_normal_holo">\f  </drawable>
+    <drawable name="cast_player_scrubber_pressed_holo">   </drawable>
+    <drawable name="common_full_open_on_phone">   </drawable>
+    <drawable name="common_google_signin_btn_icon_dark_normal_background"> \t　</drawable>
+    <drawable name="common_google_signin_btn_icon_light_normal_background">\t  </drawable>
+    <drawable name="common_google_signin_btn_text_dark_normal_background">   </drawable>
+    <drawable name="common_google_signin_btn_text_light_normal_background">   </drawable>
+    <drawable name="design_ic_visibility">   </drawable>
+    <drawable name="design_ic_visibility_off">   </drawable>
+    <drawable name="googleg_disabled_color_18">  \f</drawable>
+    <drawable name="googleg_standard_color_18">   </drawable>
+    <drawable name="ic_arrow_back_black_24dp">　  </drawable>
+    <drawable name="ic_arrow_down_24dp">   </drawable>
+    <drawable name="ic_audio_sub">   </drawable>
+    <drawable name="ic_audiotrack_dark">　  </drawable>
+    <drawable name="ic_audiotrack_light">  \t</drawable>
+    <drawable name="ic_block">   </drawable>
+    <drawable name="ic_build">   </drawable>
+    <drawable name="ic_call">   </drawable>
+    <drawable name="ic_call_active">  </drawable>
+    <drawable name="ic_call_end">   </drawable>
+    <drawable name="ic_call_end_ongoing_notification">  \t</drawable>
+    <drawable name="ic_cancel_white_24dp">   </drawable>
+    <drawable name="ic_change_profile">   </drawable>
+    <drawable name="ic_change_profile_kids">   </drawable>
+    <drawable name="ic_credit_card">   </drawable>
+    <drawable name="ic_dialog_close_dark"> \f\t</drawable>
+    <drawable name="ic_dialog_close_light">  \t</drawable>
+    <drawable name="ic_dialpad"> 　 </drawable>
+    <drawable name="ic_edit">   </drawable>
+    <drawable name="ic_episodes"> 　\t</drawable>
+    <drawable name="ic_exit_to_app">   </drawable>
+    <drawable name="ic_file_download_white_24dp">   </drawable>
+    <drawable name="ic_input_error">   </drawable>
+    <drawable name="ic_lock">   </drawable>
+    <drawable name="ic_media_pause_dark">  </drawable>
+    <drawable name="ic_media_pause_light">   </drawable>
+    <drawable name="ic_media_play_dark">   </drawable>
+    <drawable name="ic_media_play_light"> \f</drawable>
+    <drawable name="ic_media_stop_dark">  \t</drawable>
+    <drawable name="ic_media_stop_light">\f　\f</drawable>
+    <drawable name="ic_menu_share">\f\f </drawable>
+    <drawable name="ic_mic">  \f</drawable>
+    <drawable name="ic_mic_off">　\t </drawable>
+    <drawable name="ic_mr_button_connected_00_dark"> 　 </drawable>
+    <drawable name="ic_mr_button_connected_00_light">  \t</drawable>
+    <drawable name="ic_mr_button_connected_01_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connected_01_light">\t  </drawable>
+    <drawable name="ic_mr_button_connected_02_dark">　  </drawable>
+    <drawable name="ic_mr_button_connected_02_light">   </drawable>
+    <drawable name="ic_mr_button_connected_03_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_03_light">   </drawable>
+    <drawable name="ic_mr_button_connected_04_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_04_light">　  </drawable>
+    <drawable name="ic_mr_button_connected_05_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_05_light">   </drawable>
+    <drawable name="ic_mr_button_connected_06_dark">\t  </drawable>
+    <drawable name="ic_mr_button_connected_06_light">   </drawable>
+    <drawable name="ic_mr_button_connected_07_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_07_light">   </drawable>
+    <drawable name="ic_mr_button_connected_08_dark"> \f\t</drawable>
+    <drawable name="ic_mr_button_connected_08_light"> 　 </drawable>
+    <drawable name="ic_mr_button_connected_09_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_09_light">   </drawable>
+    <drawable name="ic_mr_button_connected_10_dark">\f \f</drawable>
+    <drawable name="ic_mr_button_connected_10_light">　 </drawable>
+    <drawable name="ic_mr_button_connected_11_dark">　 \t</drawable>
+    <drawable name="ic_mr_button_connected_11_light"> \t </drawable>
+    <drawable name="ic_mr_button_connected_12_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_12_light">   </drawable>
+    <drawable name="ic_mr_button_connected_13_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connected_13_light">\t\f </drawable>
+    <drawable name="ic_mr_button_connected_14_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_14_light"> \t </drawable>
+    <drawable name="ic_mr_button_connected_15_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_15_light">   </drawable>
+    <drawable name="ic_mr_button_connected_16_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connected_16_light">   </drawable>
+    <drawable name="ic_mr_button_connected_17_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connected_17_light"> 　 </drawable>
+    <drawable name="ic_mr_button_connected_18_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_18_light">   </drawable>
+    <drawable name="ic_mr_button_connected_19_dark"> \f　</drawable>
+    <drawable name="ic_mr_button_connected_19_light">   </drawable>
+    <drawable name="ic_mr_button_connected_20_dark"> \t </drawable>
+    <drawable name="ic_mr_button_connected_20_light">   </drawable>
+    <drawable name="ic_mr_button_connected_21_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_21_light">   </drawable>
+    <drawable name="ic_mr_button_connected_22_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_22_light"> \t </drawable>
+    <drawable name="ic_mr_button_connected_23_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_23_light"> \f </drawable>
+    <drawable name="ic_mr_button_connected_24_dark">  \t</drawable>
+    <drawable name="ic_mr_button_connected_24_light">  \f</drawable>
+    <drawable name="ic_mr_button_connected_25_dark">\t  </drawable>
+    <drawable name="ic_mr_button_connected_25_light"> \t </drawable>
+    <drawable name="ic_mr_button_connected_26_dark">　 </drawable>
+    <drawable name="ic_mr_button_connected_26_light">   </drawable>
+    <drawable name="ic_mr_button_connected_27_dark">   </drawable>
+    <drawable name="ic_mr_button_connected_27_light">   </drawable>
+    <drawable name="ic_mr_button_connected_28_dark"> \t </drawable>
+    <drawable name="ic_mr_button_connected_28_light">\t  </drawable>
+    <drawable name="ic_mr_button_connected_29_dark">\f </drawable>
+    <drawable name="ic_mr_button_connected_29_light">   </drawable>
+    <drawable name="ic_mr_button_connected_30_dark"> \t </drawable>
+    <drawable name="ic_mr_button_connected_30_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_00_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_00_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_01_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_01_light">\f  </drawable>
+    <drawable name="ic_mr_button_connecting_02_dark">　  </drawable>
+    <drawable name="ic_mr_button_connecting_02_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_03_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_03_light">  \f</drawable>
+    <drawable name="ic_mr_button_connecting_04_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_04_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_05_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_05_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_06_dark">\f  </drawable>
+    <drawable name="ic_mr_button_connecting_06_light">  \f</drawable>
+    <drawable name="ic_mr_button_connecting_07_dark">  </drawable>
+    <drawable name="ic_mr_button_connecting_07_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_08_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_08_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_09_dark"> \t\f</drawable>
+    <drawable name="ic_mr_button_connecting_09_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_10_dark">\t\f </drawable>
+    <drawable name="ic_mr_button_connecting_10_light">\f  </drawable>
+    <drawable name="ic_mr_button_connecting_11_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_11_light">　 \f</drawable>
+    <drawable name="ic_mr_button_connecting_12_dark"> 　 </drawable>
+    <drawable name="ic_mr_button_connecting_12_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_13_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_13_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_14_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_14_light"> 　 </drawable>
+    <drawable name="ic_mr_button_connecting_15_dark"> \f</drawable>
+    <drawable name="ic_mr_button_connecting_15_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_16_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_16_light"> \f </drawable>
+    <drawable name="ic_mr_button_connecting_17_dark">\t  </drawable>
+    <drawable name="ic_mr_button_connecting_17_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_18_dark">\t  </drawable>
+    <drawable name="ic_mr_button_connecting_18_light"> \t </drawable>
+    <drawable name="ic_mr_button_connecting_19_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_19_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_20_dark">　  </drawable>
+    <drawable name="ic_mr_button_connecting_20_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_21_dark">\t \f</drawable>
+    <drawable name="ic_mr_button_connecting_21_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_22_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_22_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_23_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_23_light">\t  </drawable>
+    <drawable name="ic_mr_button_connecting_24_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_24_light">　  </drawable>
+    <drawable name="ic_mr_button_connecting_25_dark">\f  </drawable>
+    <drawable name="ic_mr_button_connecting_25_light">  </drawable>
+    <drawable name="ic_mr_button_connecting_26_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connecting_26_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_27_dark">  \f</drawable>
+    <drawable name="ic_mr_button_connecting_27_light">  \f</drawable>
+    <drawable name="ic_mr_button_connecting_28_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_28_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_29_dark">   </drawable>
+    <drawable name="ic_mr_button_connecting_29_light">   </drawable>
+    <drawable name="ic_mr_button_connecting_30_dark">  </drawable>
+    <drawable name="ic_mr_button_connecting_30_light"> \t\t</drawable>
+    <drawable name="ic_mr_button_disabled_dark"> 　 </drawable>
+    <drawable name="ic_mr_button_disabled_light">   </drawable>
+    <drawable name="ic_mr_button_disconnected_dark">  \t</drawable>
+    <drawable name="ic_mr_button_disconnected_light">　  </drawable>
+    <drawable name="ic_mr_button_grey">   </drawable>
+    <drawable name="ic_nf_download_complete_white"> \t　</drawable>
+    <drawable name="ic_nf_download_error_white">   </drawable>
+    <drawable name="ic_nf_helpchat">   </drawable>
+    <drawable name="ic_nf_request_title"> 　\t</drawable>
+    <drawable name="ic_offline_delete">   </drawable>
+    <drawable name="ic_ongoing_notification">\t  </drawable>
+    <drawable name="ic_pause">   </drawable>
+    <drawable name="ic_play">   </drawable>
+    <drawable name="ic_preapp_refresh"> \f </drawable>
+    <drawable name="ic_profile_actionbar_edit"> 　\f</drawable>
+    <drawable name="ic_profile_cancel">\t　 </drawable>
+    <drawable name="ic_profile_delete">   </drawable>
+    <drawable name="ic_profile_save_disabled">  </drawable>
+    <drawable name="ic_profile_save_enabled">   </drawable>
+    <drawable name="ic_radio_disabled">   </drawable>
+    <drawable name="ic_radio_disabled_focused"> \f</drawable>
+    <drawable name="ic_radio_focused">   </drawable>
+    <drawable name="ic_radio_normal">\t  </drawable>
+    <drawable name="ic_radio_s_disabled">\f  </drawable>
+    <drawable name="ic_radio_s_disabled_focused">   </drawable>
+    <drawable name="ic_radio_s_focused">\t  </drawable>
+    <drawable name="ic_radio_s_normal">   </drawable>
+    <drawable name="ic_sb_netflix_n">   </drawable>
+    <drawable name="ic_skipback">   </drawable>
+    <drawable name="ic_speakerphone">   </drawable>
+    <drawable name="ic_speakerphone_off">   </drawable>
+    <drawable name="ic_statusbar_call">  \t</drawable>
+    <drawable name="ic_subsdubs">   </drawable>
+    <drawable name="ic_test_fail">   </drawable>
+    <drawable name="ic_test_pass">  \f</drawable>
+    <drawable name="ic_vol_type_speaker_dark">   </drawable>
+    <drawable name="ic_vol_type_speaker_group_dark">   </drawable>
+    <drawable name="ic_vol_type_speaker_group_light">   </drawable>
+    <drawable name="ic_vol_type_speaker_light">\t  </drawable>
+    <drawable name="ic_vol_type_tv_dark">   </drawable>
+    <drawable name="ic_vol_type_tv_light">   </drawable>
+    <drawable name="ic_volume">   </drawable>
+    <drawable name="ic_zoom_in">　  </drawable>
+    <drawable name="ic_zoom_out">　\f </drawable>
+    <drawable name="icn_down_caret"> \f\f</drawable>
+    <drawable name="icon">   </drawable>
+    <drawable name="logo_ribbon_n">   </drawable>
+    <drawable name="netflix_splash">  </drawable>
+    <drawable name="notif_back30">   </drawable>
+    <drawable name="notif_back30_inactive">   </drawable>
+    <drawable name="notif_pause">\f  </drawable>
+    <drawable name="notif_pause_inactive">\t　\f</drawable>
+    <drawable name="notif_play">\f \t</drawable>
+    <drawable name="notif_play_inactive">   </drawable>
+    <drawable name="notif_stop">   </drawable>
+    <drawable name="notif_stop_inactive">   </drawable>
+    <drawable name="notification_bg_low_normal">   </drawable>
+    <drawable name="notification_bg_low_pressed">   </drawable>
+    <drawable name="notification_bg_normal">   </drawable>
+    <drawable name="notification_bg_normal_pressed">   </drawable>
+    <drawable name="notify_panel_notification_icon_bg">\t  </drawable>
+    <drawable name="p4p_back">   </drawable>
+    <drawable name="p4p_play">   </drawable>
+    <drawable name="p4p_stop">   </drawable>
+    <drawable name="p4t_play"> \f </drawable>
+    <drawable name="p4t_stop">\t\t </drawable>
+    <drawable name="p4t_volume">  \f</drawable>
+    <drawable name="play_overlay">\f  </drawable>
+    <drawable name="profile_picture_checkmark">   </drawable>
+    <drawable name="profile_picture_dropdown_arrow">   </drawable>
+    <drawable name="profile_selection_add">   </drawable>
+    <drawable name="profile_top_edit_icon">　  </drawable>
+    <drawable name="quantum_ic_art_track_grey600_48">   </drawable>
+    <drawable name="quantum_ic_bigtop_updates_white_24">   </drawable>
+    <drawable name="quantum_ic_cast_connected_white_24">\f  </drawable>
+    <drawable name="quantum_ic_cast_white_36">   </drawable>
+    <drawable name="quantum_ic_clear_white_24">　  </drawable>
+    <drawable name="quantum_ic_closed_caption_grey600_36">\t  </drawable>
+    <drawable name="quantum_ic_closed_caption_white_36">   </drawable>
+    <drawable name="quantum_ic_forward_10_white_24">   </drawable>
+    <drawable name="quantum_ic_forward_30_grey600_36">   </drawable>
+    <drawable name="quantum_ic_forward_30_white_24"> \t\f</drawable>
+    <drawable name="quantum_ic_forward_30_white_36">   </drawable>
+    <drawable name="quantum_ic_keyboard_arrow_down_white_36">   </drawable>
+    <drawable name="quantum_ic_pause_circle_filled_grey600_36">   </drawable>
+    <drawable name="quantum_ic_pause_circle_filled_white_36">   </drawable>
+    <drawable name="quantum_ic_pause_grey600_36"> 　 </drawable>
+    <drawable name="quantum_ic_pause_grey600_48">   </drawable>
+    <drawable name="quantum_ic_pause_white_24">   </drawable>
+    <drawable name="quantum_ic_play_arrow_grey600_36">   </drawable>
+    <drawable name="quantum_ic_play_arrow_grey600_48">   </drawable>
+    <drawable name="quantum_ic_play_arrow_white_24"> \f </drawable>
+    <drawable name="quantum_ic_play_circle_filled_grey600_36">   </drawable>
+    <drawable name="quantum_ic_play_circle_filled_white_36"> \f\f</drawable>
+    <drawable name="quantum_ic_refresh_white_24">  </drawable>
+    <drawable name="quantum_ic_replay_10_white_24"> \f </drawable>
+    <drawable name="quantum_ic_replay_30_grey600_36"> \f </drawable>
+    <drawable name="quantum_ic_replay_30_white_24">   </drawable>
+    <drawable name="quantum_ic_replay_30_white_36">   </drawable>
+    <drawable name="quantum_ic_replay_white_24">  \t</drawable>
+    <drawable name="quantum_ic_skip_next_grey600_36">   </drawable>
+    <drawable name="quantum_ic_skip_next_white_24">  \f</drawable>
+    <drawable name="quantum_ic_skip_next_white_36">   </drawable>
+    <drawable name="quantum_ic_skip_previous_grey600_36">   </drawable>
+    <drawable name="quantum_ic_skip_previous_white_24">   </drawable>
+    <drawable name="quantum_ic_skip_previous_white_36">\t  </drawable>
+    <drawable name="quantum_ic_stop_grey600_36"> 　 </drawable>
+    <drawable name="quantum_ic_stop_grey600_48"> \t\f</drawable>
+    <drawable name="quantum_ic_stop_white_24">\t \f</drawable>
+    <drawable name="quantum_ic_volume_off_grey600_36"> 　 </drawable>
+    <drawable name="quantum_ic_volume_off_white_36"> \f </drawable>
+    <drawable name="quantum_ic_volume_up_grey600_36"> 　 </drawable>
+    <drawable name="quantum_ic_volume_up_white_36">   </drawable>
+    <drawable name="rating_existing_user_graphic">   </drawable>
+    <drawable name="signup_spinner">\f 　</drawable>
+    <drawable name="splash_spinner">  \t</drawable>
+    <drawable name="star_netflix_rated">   </drawable>
+    <drawable name="star_no_selection">　  </drawable>
+    <drawable name="star_user_rated">   </drawable>
+    <drawable name="vertical_list_div">   </drawable>
+    <drawable name="vpi__tab_selected_focused_holo"> 　 </drawable>
+    <drawable name="vpi__tab_selected_holo">   </drawable>
+    <drawable name="vpi__tab_selected_pressed_holo">   </drawable>
+    <drawable name="vpi__tab_unselected_focused_holo">   </drawable>
+    <drawable name="vpi__tab_unselected_holo">\f \f</drawable>
+    <drawable name="vpi__tab_unselected_pressed_holo">   </drawable>
+</resources>

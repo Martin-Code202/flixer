@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_us_button_margin_bottom">10dp</dimen>
+    <dimen name="contact_us_landing_page_links_padding">10dp</dimen>
+    <dimen name="contact_us_landing_page_subtitle_margin_top">10dp</dimen>
+    <dimen name="login_button_padding">16dp</dimen>
+    <dimen name="login_edit_text_margin">8dp</dimen>
+    <dimen name="login_field_width">300dp</dimen>
+    <dimen name="player_panel_background_height">120dp</dimen>
+    <dimen name="survey_choice_margin">18dp</dimen>
+    <dimen name="survey_choice_text_size">16sp</dimen>
+    <dimen name="survey_circle_size">45dp</dimen>
+    <dimen name="survey_header_text_size">16sp</dimen>
+    <dimen name="survey_margin">20dp</dimen>
+    <dimen name="survey_question_body_text_size">34sp</dimen>
+    <dimen name="survey_question_header_text_size">24sp</dimen>
+    <dimen name="survey_skip_text_size">16sp</dimen>
+    <dimen name="suvery_selection_margin">14dp</dimen>
+</resources>

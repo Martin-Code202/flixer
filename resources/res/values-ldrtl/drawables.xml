@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="dp_hero_gradient_side">   .xml</drawable>
+    <drawable name="shadow_black_to_trans_horizontal">   .xml</drawable>
+</resources>

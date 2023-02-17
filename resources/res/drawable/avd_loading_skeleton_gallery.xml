@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_2131230723_avd_loading_skeleton_gallery__0">
+    <target android:name="0_0" android:animation="@drawable/res_2131230724_avd_loading_skeleton_gallery__1"/>
+    <target android:name="0_1" android:animation="@drawable/res_2131230731_avd_loading_skeleton_gallery__2"/>
+    <target android:name="0_2" android:animation="@drawable/res_2131230732_avd_loading_skeleton_gallery__3"/>
+    <target android:name="1_0" android:animation="@drawable/res_2131230733_avd_loading_skeleton_gallery__4"/>
+    <target android:name="1_1" android:animation="@drawable/res_2131230734_avd_loading_skeleton_gallery__5"/>
+    <target android:name="1_2" android:animation="@drawable/res_2131230735_avd_loading_skeleton_gallery__6"/>
+    <target android:name="2_0" android:animation="@drawable/res_2131230736_avd_loading_skeleton_gallery__7"/>
+    <target android:name="2_1" android:animation="@drawable/res_2131230737_avd_loading_skeleton_gallery__8"/>
+    <target android:name="2_2" android:animation="@drawable/res_2131230738_avd_loading_skeleton_gallery__9"/>
+    <target android:name="3_0" android:animation="@drawable/res_2131230725_avd_loading_skeleton_gallery__10"/>
+    <target android:name="3_1" android:animation="@drawable/res_2131230726_avd_loading_skeleton_gallery__11"/>
+    <target android:name="3_2" android:animation="@drawable/res_2131230727_avd_loading_skeleton_gallery__12"/>
+    <target android:name="4_0" android:animation="@drawable/res_2131230728_avd_loading_skeleton_gallery__13"/>
+    <target android:name="4_1" android:animation="@drawable/res_2131230729_avd_loading_skeleton_gallery__14"/>
+    <target android:name="4_2" android:animation="@drawable/res_2131230730_avd_loading_skeleton_gallery__15"/>
+</animated-vector>

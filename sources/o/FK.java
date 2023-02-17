@@ -1,0 +1,3 @@
+package o;
+class FK {
+}

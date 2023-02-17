@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="billboard_info_view_group_margin_left">32dp</dimen>
+    <dimen name="billboard_shadow_overlay_width">260dp</dimen>
+    <dimen name="motion_billboard_mute_button_margin_right">12dp</dimen>
+</resources>

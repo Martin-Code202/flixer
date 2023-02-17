@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131951685_base_theme_appcompat_dialogwhenlarge" parent="@style/res_2131951683_base_theme_appcompat_dialog_fixedsize">
+    </style>
+    <style name="res_2131951692_base_theme_appcompat_light_dialogwhenlarge" parent="@style/res_2131951690_base_theme_appcompat_light_dialog_fixedsize">
+    </style>
+    <style name="ProfileDetailsContents" parent="@style/match">
+        <item name="android:layout_gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">@color/profile_details_tablet_background</item>
+        <item name="android:layout_width">700dp</item>
+        <item name="android:layout_marginTop">@dimen/profile_details_top_content_margin</item>
+        <item name="android:layout_marginBottom">@dimen/profile_details_main_margin</item>
+        <item name="android:paddingStart">@dimen/profile_details_main_margin</item>
+        <item name="android:paddingEnd">@dimen/profile_details_main_margin</item>
+    </style>
+    <style name="ProfileDetailsText" parent="@style/res_2131951978_primarytext_medium">
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+    <style name="ProfileTopActionsButtons" parent="@style/match">
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:layout_width">170dp</item>
+    </style>
+</resources>

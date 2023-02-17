@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ConfirmFragmentContent">
+        <item name="android:layout_width">500dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+    <style name="PhoneCountryInput">
+        <item name="android:layout_width">450dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="res_2131952050_signup_native_ctabutton_blue_orderfinal" parent="@style/res_2131952049_signup_native_ctabutton_blue">
+        <item name="android:paddingLeft">96dp</item>
+        <item name="android:paddingRight">96dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">52dp</item>
+    </style>
+    <style name="res_2131952062_signup_native_tabcontent_imageview_devices" parent="@style/res_2131952061_signup_native_tabcontent_imageview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">350dp</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="SignupNativeWelcomePricesHeader">
+        <item name="android:layout_gravity">right|center_horizontal</item>
+    </style>
+    <style name="res_2131952346_widget_design_tablayout" parent="@style/res_2131951781_base_widget_design_tablayout">
+        <item name="tabGravity">1</item>
+        <item name="tabMode">1</item>
+    </style>
+</resources>

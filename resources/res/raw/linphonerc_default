@@ -1,0 +1,7 @@
+[net]
+download_bw=380
+upload_bw=380
+
+[sip]
+verify_server_certs=0
+verify_server_cn=0

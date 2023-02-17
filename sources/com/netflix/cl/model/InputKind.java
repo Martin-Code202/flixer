@@ -1,0 +1,25 @@
+package com.netflix.cl.model;
+public enum InputKind {
+    email,
+    password,
+    firstName,
+    lastName,
+    street,
+    zipCode,
+    city,
+    giftCardNumber,
+    birthDay,
+    birthMonth,
+    birthYear,
+    directDebitChoice,
+    directDebitBranchNumber,
+    directDebitAccountNumber,
+    directDebitAccountDigit,
+    directDebitOperation,
+    directDebitCpf,
+    cardNumber,
+    cardExpirationDate,
+    cardSecurityCode,
+    phoneNumber,
+    smsCode
+}

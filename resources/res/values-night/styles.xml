@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131952189_theme_appcompat_daynight" parent="@style/res_2131952187_theme_appcompat">
+    </style>
+    <style name="res_2131952190_theme_appcompat_daynight_darkactionbar" parent="@style/res_2131952187_theme_appcompat">
+    </style>
+    <style name="res_2131952191_theme_appcompat_daynight_dialog" parent="@style/res_2131952196_theme_appcompat_dialog">
+    </style>
+    <style name="res_2131952192_theme_appcompat_daynight_dialog_alert" parent="@style/res_2131952197_theme_appcompat_dialog_alert">
+    </style>
+    <style name="res_2131952193_theme_appcompat_daynight_dialog_minwidth" parent="@style/res_2131952198_theme_appcompat_dialog_minwidth">
+    </style>
+    <style name="res_2131952194_theme_appcompat_daynight_dialogwhenlarge" parent="@style/res_2131952199_theme_appcompat_dialogwhenlarge">
+    </style>
+    <style name="res_2131952195_theme_appcompat_daynight_noactionbar" parent="@style/res_2131952208_theme_appcompat_noactionbar">
+    </style>
+</resources>

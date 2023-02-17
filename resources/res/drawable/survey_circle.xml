@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="@color/survey_option_unselected"/>
+    <size android:height="@dimen/survey_circle_size" android:width="@dimen/survey_circle_size"/>
+</shape>

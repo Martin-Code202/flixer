@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="res_2131951679_base_theme_appcompat" parent="@style/res_2131951711_base_v26_theme_appcompat">
+    </style>
+    <style name="res_2131951686_base_theme_appcompat_light" parent="@style/res_2131951712_base_v26_theme_appcompat_light">
+    </style>
+    <style name="res_2131951711_base_v26_theme_appcompat" parent="@style/res_2131951709_base_v23_theme_appcompat">
+        <item name="colorError">?android:attr/colorError</item>
+    </style>
+    <style name="res_2131951712_base_v26_theme_appcompat_light" parent="@style/res_2131951710_base_v23_theme_appcompat_light">
+        <item name="colorError">?android:attr/colorError</item>
+    </style>
+    <style name="res_2131951713_base_v26_widget_appcompat_toolbar" parent="@style/res_2131951722_base_v7_widget_appcompat_toolbar">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="res_2131951714_base_v26_widget_design_appbarlayout" parent="@style/res_2131951706_base_v21_widget_design_appbarlayout">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="res_2131951778_base_widget_appcompat_toolbar" parent="@style/res_2131951713_base_v26_widget_appcompat_toolbar">
+    </style>
+    <style name="res_2131951780_base_widget_design_appbarlayout" parent="@style/res_2131951714_base_v26_widget_design_appbarlayout">
+    </style>
+</resources>

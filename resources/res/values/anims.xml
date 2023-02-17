@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <anim name="abc_fade_in">  \f.xml</anim>
+    <anim name="abc_fade_out"> \t .xml</anim>
+    <anim name="abc_grow_fade_in_from_bottom">\t .xml</anim>
+    <anim name="abc_popup_enter">   .xml</anim>
+    <anim name="abc_popup_exit">   .xml</anim>
+    <anim name="abc_shrink_fade_out_from_bottom">\t  .xml</anim>
+    <anim name="abc_slide_in_bottom">\t  .xml</anim>
+    <anim name="abc_slide_in_top">   .xml</anim>
+    <anim name="abc_slide_out_bottom">   .xml</anim>
+    <anim name="abc_slide_out_top">   .xml</anim>
+    <anim name="abc_tooltip_enter">   .xml</anim>
+    <anim name="abc_tooltip_exit">\f  .xml</anim>
+    <anim name="anim_scale_down"> 　 .xml</anim>
+    <anim name="anim_scale_up">   .xml</anim>
+    <anim name="anim_slide_right_in">   .xml</anim>
+    <anim name="anim_slide_right_out">   .xml</anim>
+    <anim name="anim_tablet_slide_right_in">   .xml</anim>
+    <anim name="anim_tablet_slide_right_out">  .xml</anim>
+    <anim name="appear_from_center">   .xml</anim>
+    <anim name="aui_slide_in_right">   .xml</anim>
+    <anim name="aui_slide_out_left">   .xml</anim>
+    <anim name="design_bottom_sheet_slide_in">   .xml</anim>
+    <anim name="design_bottom_sheet_slide_out">   .xml</anim>
+    <anim name="design_snackbar_in">   .xml</anim>
+    <anim name="design_snackbar_out">   .xml</anim>
+    <anim name="disappear_in_center"> \t .xml</anim>
+    <anim name="fade_in_fast">\t  .xml</anim>
+    <anim name="fade_out_fast">   .xml</anim>
+    <anim name="pulse">　  .xml</anim>
+</resources>

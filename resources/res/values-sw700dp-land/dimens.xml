@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_field_width">750dp</dimen>
+    <dimen name="login_margin">70dp</dimen>
+    <dimen name="signup_registration_width">500dp</dimen>
+    <dimen name="signup_step_label_text_micro">12.5sp</dimen>
+    <dimen name="signup_subheading_text_large">28sp</dimen>
+    <dimen name="signup_welcome_content_padding_side">150dp</dimen>
+    <dimen name="signup_welcome_cta_textSize">15sp</dimen>
+</resources>

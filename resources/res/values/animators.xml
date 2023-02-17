@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <animator name="animator_scale_down">　  .xml</animator>
+    <animator name="animator_scale_up">   .xml</animator>
+    <animator name="design_appbar_state_list_animator">   .xml</animator>
+    <animator name="fade_in">  \t.xml</animator>
+    <animator name="fade_out">\t  .xml</animator>
+</resources>

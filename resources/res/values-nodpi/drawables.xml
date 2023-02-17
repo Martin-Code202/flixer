@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="blank_avatar">   </drawable>
+    <drawable name="cast_album_art_placeholder"> 　 </drawable>
+    <drawable name="cast_album_art_placeholder_large">   </drawable>
+    <drawable name="interactive_hand_symbol">  \t</drawable>
+    <drawable name="interactive_smiley_symbol">   </drawable>
+    <drawable name="kids_bg_profile_loading">   </drawable>
+    <drawable name="network_diagnostics_bg_img">   </drawable>
+    <drawable name="profile_selection_promo_background"> \f </drawable>
+</resources>

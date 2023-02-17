@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ab_logo">   </drawable>
+    <drawable name="cast_player_play_icon">  </drawable>
+    <drawable name="ic_arrow_down_24dp"> \f </drawable>
+    <drawable name="ic_edit">　  </drawable>
+    <drawable name="ic_offline_delete">\t \t</drawable>
+    <drawable name="ic_sb_netflix_n">\t \f</drawable>
+    <drawable name="ic_test_fail">\t \f</drawable>
+    <drawable name="ic_test_pass">   </drawable>
+    <drawable name="icon">   </drawable>
+    <drawable name="netflix_splash">   </drawable>
+    <drawable name="signup_spinner">\f\t　</drawable>
+    <drawable name="splash_spinner">　　 </drawable>
+    <drawable name="vertical_list_div"> \t </drawable>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_2131230779_avd_trailers_feed_loading_skeleton__0">
+    <target android:name="item_video" android:animation="@drawable/res_2131230780_avd_trailers_feed_loading_skeleton__1"/>
+    <target android:name="item_video_text1" android:animation="@drawable/res_2131230781_avd_trailers_feed_loading_skeleton__2"/>
+    <target android:name="item_video_text2" android:animation="@drawable/res_2131230782_avd_trailers_feed_loading_skeleton__3"/>
+    <target android:name="item_video_text3" android:animation="@drawable/res_2131230783_avd_trailers_feed_loading_skeleton__4"/>
+    <target android:name="item_video_text4" android:animation="@drawable/res_2131230784_avd_trailers_feed_loading_skeleton__5"/>
+    <target android:name="item_video_text5" android:animation="@drawable/res_2131230785_avd_trailers_feed_loading_skeleton__6"/>
+    <target android:name="item_video_text6" android:animation="@drawable/res_2131230786_avd_trailers_feed_loading_skeleton__7"/>
+    <target android:name="next_item_video" android:animation="@drawable/res_2131230787_avd_trailers_feed_loading_skeleton__8"/>
+</animated-vector>
